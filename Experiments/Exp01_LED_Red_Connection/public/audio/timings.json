@@ -1,0 +1,62 @@
+[
+  {
+    "file": "scene-01.mp3",
+    "durationSec": "10.18",
+    "frames": 321,
+    "text": "Experiment zero one: LED Red connection. In this experiment, we will glow a red LED and understand how an LED works."
+  },
+  {
+    "file": "scene-02.mp3",
+    "durationSec": "8.04",
+    "frames": 257,
+    "text": "The components required are: a three-volt battery ePod, a red LED ePod, and two jump wires."
+  },
+  {
+    "file": "scene-03.mp3",
+    "durationSec": "14.66",
+    "frames": 455,
+    "text": "Before wiring, let us review the official circuit diagram from the workbook. The battery positive terminal connects to the LED positive terminal, and the battery negative terminal connects to the LED negative terminal."
+  },
+  {
+    "file": "scene-04.mp3",
+    "durationSec": "8.62",
+    "frames": 274,
+    "text": "Place the three-volt battery ePod on the left and the red LED ePod on the right, keeping both positive terminals at the top."
+  },
+  {
+    "file": "scene-05.mp3",
+    "durationSec": "8.45",
+    "frames": 269,
+    "text": "First, connect a red jump wire from the positive terminal of the three-volt battery to the positive terminal of the red LED."
+  },
+  {
+    "file": "scene-06.mp3",
+    "durationSec": "7.92",
+    "frames": 253,
+    "text": "Next, connect a black jump wire from the negative terminal of the battery to the negative terminal of the red LED."
+  },
+  {
+    "file": "scene-07.mp3",
+    "durationSec": "10.18",
+    "frames": 321,
+    "text": "As soon as the connection is completed, the red LED starts glowing! The circuit is now closed and electric current flows through the LED."
+  },
+  {
+    "file": "scene-08.mp3",
+    "durationSec": "17.35",
+    "frames": 536,
+    "text": "A battery is the source of electricity, providing three volts. The LED is an output device that converts electrical energy into light energy. An LED allows current to flow in only one direction, from anode to cathode."
+  },
+  {
+    "file": "scene-09.mp3",
+    "durationSec": "8.33",
+    "frames": 265,
+    "text": "In tinkering: if you reverse the LED connections, the LED will not glow, because the diode blocks reverse current."
+  },
+  {
+    "file": "scene-10.mp3",
+    "durationSec": "6.74",
+    "frames": 218,
+    "text": "Remember to remove the jump wire after completing the experiment to save electricity."
+  }
+]

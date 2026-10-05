@@ -1,0 +1,56 @@
+[
+  {
+    "file": "scene-01.mp3",
+    "durationSec": "10.78",
+    "frames": 339,
+    "text": "Experiment zero four: A fuse in a circuit. In this experiment, we will understand how an electrical fuse protects a circuit."
+  },
+  {
+    "file": "scene-02.mp3",
+    "durationSec": "11.81",
+    "frames": 370,
+    "text": "The components required are: a three-volt battery ePod, a red LED ePod, three jump wires, and a pencil lead between zero point five and one millimeter."
+  },
+  {
+    "file": "scene-03.mp3",
+    "durationSec": "10.54",
+    "frames": 332,
+    "text": "Here is the circuit diagram from the workbook. The pencil lead is inserted into the positive circuit path between the battery and the red LED."
+  },
+  {
+    "file": "scene-04.mp3",
+    "durationSec": "11.66",
+    "frames": 365,
+    "text": "Connect battery negative to LED negative. Then connect battery positive to one side of the pencil lead, and the other side of the pencil lead to LED positive."
+  },
+  {
+    "file": "scene-05.mp3",
+    "durationSec": "10.94",
+    "frames": 344,
+    "text": "With the pencil lead intact, the red LED glows! The graphite pencil lead acts as an electrical conductor and completes the circuit path."
+  },
+  {
+    "file": "scene-06.mp3",
+    "durationSec": "6.84",
+    "frames": 221,
+    "text": "Now, let us simulate what happens when a fuse blows by gently breaking the pencil lead."
+  },
+  {
+    "file": "scene-07.mp3",
+    "durationSec": "13.87",
+    "frames": 432,
+    "text": "The pencil lead snaps, separating into two pieces! The red LED immediately turns off. Breaking the lead creates an open circuit, stopping all electrical current."
+  },
+  {
+    "file": "scene-08.mp3",
+    "durationSec": "14.76",
+    "frames": 458,
+    "text": "In real electrical systems, a fuse contains a thin filament that melts when current increases excessively. By melting, it breaks the circuit and protects expensive appliances from damage."
+  },
+  {
+    "file": "scene-09.mp3",
+    "durationSec": "8.18",
+    "frames": 261,
+    "text": "In tinkering: you can explore replacing the pencil lead with a single-strand wire to observe continuity restored."
+  }
+]

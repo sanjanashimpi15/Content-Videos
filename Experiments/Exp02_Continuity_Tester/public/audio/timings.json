@@ -1,0 +1,56 @@
+[
+  {
+    "file": "scene-01.mp3",
+    "durationSec": "11.38",
+    "frames": 357,
+    "text": "Experiment zero two: Continuity tester. In this experiment, we check if there is continuity between two points and learn about open circuits."
+  },
+  {
+    "file": "scene-02.mp3",
+    "durationSec": "9.82",
+    "frames": 310,
+    "text": "The components required are: a three-volt battery ePod, a red LED ePod, three jump wires, and two single-strand wires."
+  },
+  {
+    "file": "scene-03.mp3",
+    "durationSec": "13.78",
+    "frames": 429,
+    "text": "Here is the circuit diagram from the workbook. Battery positive connects to LED positive. The negative terminals connect to two single-strand wires that serve as testing probes."
+  },
+  {
+    "file": "scene-04.mp3",
+    "durationSec": "15.36",
+    "frames": 476,
+    "text": "Let us build the circuit. Connect battery positive to LED positive with a jump wire. Then attach single-strand wires to the battery negative and LED negative terminals, leaving two open testing ends."
+  },
+  {
+    "file": "scene-05.mp3",
+    "durationSec": "11.09",
+    "frames": 348,
+    "text": "When the open ends do not touch each other, the LED does not glow. This is an open circuit, because electricity cannot flow through the air."
+  },
+  {
+    "file": "scene-06.mp3",
+    "durationSec": "12.65",
+    "frames": 395,
+    "text": "Now, touch the two open ends directly together. The LED glows immediately! Touching the ends completes the circuit, allowing electric current to flow."
+  },
+  {
+    "file": "scene-07.mp3",
+    "durationSec": "13.34",
+    "frames": 416,
+    "text": "Next, place the open ends on a metal steel ring. The LED glows brightly! Metals are good conductors of electricity and allow electric current to pass through them."
+  },
+  {
+    "file": "scene-08.mp3",
+    "durationSec": "16.06",
+    "frames": 497,
+    "text": "Now, test with a piece of paper. The LED does not glow, because paper is a bad conductor, or insulator. Testing on a plastic box also keeps the LED off, because plastic is an insulator."
+  },
+  {
+    "file": "scene-09.mp3",
+    "durationSec": "12.65",
+    "frames": 395,
+    "text": "To summarize: an open circuit has an incomplete path so the LED stays off. A closed circuit has a complete conducting path, allowing current to flow and lighting the LED."
+  }
+]

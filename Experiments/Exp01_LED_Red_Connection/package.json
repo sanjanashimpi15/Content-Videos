@@ -1,0 +1,23 @@
+{
+  "name": "exp01-led-red-connection",
+  "version": "1.0.0",
+  "description": "Remotion educational video for Exp01_LED_Red_Connection",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render Exp01LEDRedConnection renders/final/Exp01LEDRedConnection.mp4",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.533",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.245"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "msedge-tts": "^2.0.9",
+    "music-metadata": "^12.0.0",
+    "typescript": "^5.6.3"
+  }
+}

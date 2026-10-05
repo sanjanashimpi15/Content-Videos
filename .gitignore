@@ -9,6 +9,8 @@ node_modules/
 epod_video_design/out/
 EpodJumperWireVideo/renders/final/
 EpodJumperWireVideo/renders/preview/
+Experiments/*/renders/final/
+Experiments/*/renders/preview/
 
 # System & temporary logs
 *.log

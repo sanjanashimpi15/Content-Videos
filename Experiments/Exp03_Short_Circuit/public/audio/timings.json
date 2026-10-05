@@ -1,0 +1,56 @@
+[
+  {
+    "file": "scene-01.mp3",
+    "durationSec": "8.76",
+    "frames": 278,
+    "text": "Experiment zero three: Short circuit. In this experiment, we will learn the effect of a short circuit."
+  },
+  {
+    "file": "scene-02.mp3",
+    "durationSec": "8.18",
+    "frames": 261,
+    "text": "The components required are: a three-volt battery ePod, a red LED ePod, and three jump wires."
+  },
+  {
+    "file": "scene-03.mp3",
+    "durationSec": "13.42",
+    "frames": 418,
+    "text": "Here is the circuit diagram from the workbook. In addition to the normal battery and LED loop, a third jump wire connects directly across the positive and negative terminals of the LED."
+  },
+  {
+    "file": "scene-04.mp3",
+    "durationSec": "12.17",
+    "frames": 381,
+    "text": "First, we connect the normal circuit. Battery positive to LED positive, and battery negative to LED negative. The red LED glows normally."
+  },
+  {
+    "file": "scene-05.mp3",
+    "durationSec": "7.87",
+    "frames": 252,
+    "text": "Now, connect a third jump wire directly from the positive terminal of the LED to the negative terminal of the LED."
+  },
+  {
+    "file": "scene-06.mp3",
+    "durationSec": "12.67",
+    "frames": 396,
+    "text": "Notice that the LED immediately stops glowing! The third wire creates a direct path with very low resistance between the positive and negative poles, bypassing the LED."
+  },
+  {
+    "file": "scene-07.mp3",
+    "durationSec": "12.65",
+    "frames": 395,
+    "text": "In a short circuit, all the current flows through the direct path without obstruction. This generates a lot of heat and can cause fires in household electrical systems."
+  },
+  {
+    "file": "scene-08.mp3",
+    "durationSec": "12.31",
+    "frames": 385,
+    "text": "Important safety warning: Disconnect the short circuit wire after twenty seconds. Never keep a short circuit connected, or the battery will heat up and leak chemicals."
+  },
+  {
+    "file": "scene-09.mp3",
+    "durationSec": "8.95",
+    "frames": 284,
+    "text": "Now, remove the third jump wire. The short circuit is removed, and the red LED glows normally once again."
+  }
+]
