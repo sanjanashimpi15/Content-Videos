@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "totalFrames": 2550,
+    "totalSec": 85.0,
+    "source": {
+      "file": "public/epod_source_1080p.mp4",
+      "original": "sample_video_of_battery_inserting.mp4",
+      "originalRes": "3840x2160",
+      "originalDurationSec": 77.07,
+      "muted": true
+    },
+    "coordinateSpace": "Overlay x/y/r are normalised (0-1) to the SOURCE frame; r is a fraction of frame width. Label/step/polarity boxes are normalised to the OUTPUT screen. Times are seconds from scene start.",
+    "theme": {
+      "navy": "#12263A",
+      "amber": "#F5A300",
+      "grey": "#4A5B6C",
+      "panel": "#F5F7FA",
+      "green": "#1E9E5A",
+      "font": "Inter"
+    }
+  },
+  "scenes": [
+    {
+      "id": "S01",
+      "title": "Introduction",
+      "kind": "footage",
+      "source": {
+        "fromSec": 0,
+        "toSec": 6,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 0,
+        "durationFrames": 180,
+        "fromSec": 0.0,
+        "durationSec": 6.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "lowerThird",
+          "title": "Battery ePod",
+          "subtitle": "Inserting the battery \u00b7 Circuito ePod teacher training",
+          "t0": 0.4,
+          "t1": 5.4
+        }
+      ],
+      "narration": {
+        "text": "Let's learn how to insert the battery into the Battery ePod.",
+        "startSec": 0.4
+      },
+      "notes": "Source is a static top-down shot until about 0:08. Hands are not yet in frame."
+    },
+    {
+      "id": "S02",
+      "title": "What you need",
+      "kind": "footage",
+      "source": {
+        "fromSec": 9,
+        "toSec": 18,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 180,
+        "durationFrames": 270,
+        "fromSec": 6.0,
+        "durationSec": 9.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.33,
+          "y": 0.66,
+          "r": 0.13,
+          "t0": 0.6,
+          "t1": 3.6,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.33,
+            "y": 0.66
+          },
+          "box": {
+            "x": 0.35,
+            "y": 0.92
+          },
+          "text": "Battery ePod",
+          "sub": "",
+          "t0": 0.6,
+          "t1": 3.6,
+          "approx": true
+        },
+        {
+          "type": "ring",
+          "x": 0.47,
+          "y": 0.21,
+          "r": 0.1,
+          "t0": 4.0,
+          "t1": 9,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.47,
+            "y": 0.21
+          },
+          "box": {
+            "x": 0.8,
+            "y": 0.15
+          },
+          "text": "CR2032 coin cell",
+          "sub": "3 V lithium battery",
+          "t0": 4.0,
+          "t1": 9,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "You need two things: the Battery ePod, and a CR2032 coin cell, a three-volt lithium battery.",
+        "startSec": 0.5
+      },
+      "notes": "Presenter's finger points at the blister pack from about 0:12 to 0:18. Confirm the pack is the battery the teacher should use."
+    },
+    {
+      "id": "S03",
+      "title": "Parts of the ePod",
+      "kind": "footage",
+      "source": {
+        "fromSec": 20.5,
+        "toSec": 24,
+        "playbackRate": 1,
+        "freezeExtendSec": 3.5
+      },
+      "out": {
+        "fromFrame": 450,
+        "durationFrames": 210,
+        "fromSec": 15.0,
+        "durationSec": 7.0
+      },
+      "zoom": [
+        {
+          "t0": 0.3,
+          "t1": 7,
+          "scale": 1.9,
+          "cx": 0.36,
+          "cy": 0.65,
+          "easeIn": 0.8,
+          "easeOut": 0.8
+        }
+      ],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.35,
+          "y": 0.65,
+          "r": 0.05,
+          "t0": 0.8,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.35,
+            "y": 0.65
+          },
+          "box": {
+            "x": 0.5,
+            "y": 0.14
+          },
+          "text": "Battery holder",
+          "sub": "",
+          "t0": 1.0,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.245,
+            "y": 0.645
+          },
+          "box": {
+            "x": 0.2,
+            "y": 0.82
+          },
+          "text": "Connector",
+          "sub": "",
+          "t0": 3.0,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.485,
+            "y": 0.635
+          },
+          "box": {
+            "x": 0.82,
+            "y": 0.82
+          },
+          "text": "Connector",
+          "sub": "",
+          "t0": 4.0,
+          "t1": 7,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "The ePod has a round battery holder in the middle, with a connector on each side.",
+        "startSec": 0.5
+      },
+      "notes": "Last frame is frozen for 3.5 s so the labels can be read."
+    },
+    {
+      "id": "S04",
+      "title": "The coin cell",
+      "kind": "footage",
+      "source": {
+        "fromSec": 24,
+        "toSec": 31,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 660,
+        "durationFrames": 210,
+        "fromSec": 22.0,
+        "durationSec": 7.0
+      },
+      "zoom": [
+        {
+          "t0": 0.3,
+          "t1": 7,
+          "scale": 2.0,
+          "cx": 0.6,
+          "cy": 0.68,
+          "easeIn": 0.8,
+          "easeOut": 0.8
+        }
+      ],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.62,
+          "y": 0.68,
+          "r": 0.06,
+          "t0": 0.6,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.62,
+            "y": 0.68
+          },
+          "box": {
+            "x": 0.25,
+            "y": 0.22
+          },
+          "text": "CR2032 coin cell",
+          "sub": "",
+          "t0": 0.6,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "polarity",
+          "text": "Engraved side = positive (+)",
+          "box": {
+            "x": 0.5,
+            "y": 0.9
+          },
+          "t0": 3.2,
+          "t1": 7
+        }
+      ],
+      "narration": {
+        "text": "This is the coin cell. The flat side with the writing is the positive side, marked plus.",
+        "startSec": 0.5
+      },
+      "notes": "Verify with the teacher that the engraved face is the (+) face on this cell before publishing."
+    },
+    {
+      "id": "S05",
+      "title": "Hold the ePod",
+      "kind": "footage",
+      "source": {
+        "fromSec": 32,
+        "toSec": 38,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 870,
+        "durationFrames": 180,
+        "fromSec": 29.0,
+        "durationSec": 6.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.27,
+          "y": 0.68,
+          "r": 0.15,
+          "t0": 1.0,
+          "t1": 6,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.27,
+            "y": 0.68
+          },
+          "box": {
+            "x": 0.62,
+            "y": 0.22
+          },
+          "text": "Hold flat",
+          "sub": "Holder facing up",
+          "t0": 1.0,
+          "t1": 6,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "Pick up the ePod and hold it flat, with the battery holder facing up.",
+        "startSec": 0.4
+      },
+      "notes": "Hand-held segment: overlay positions are approximate and drift as the ePod moves."
+    },
+    {
+      "id": "S06",
+      "title": "Bring them together",
+      "kind": "footage",
+      "source": {
+        "fromSec": 38,
+        "toSec": 44,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 1050,
+        "durationFrames": 180,
+        "fromSec": 35.0,
+        "durationSec": 6.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "arrow",
+          "from": {
+            "x": 0.5,
+            "y": 0.7
+          },
+          "to": {
+            "x": 0.4,
+            "y": 0.66
+          },
+          "t0": 1.0,
+          "t1": 5.5,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.45,
+            "y": 0.68
+          },
+          "box": {
+            "x": 0.55,
+            "y": 0.15
+          },
+          "text": "Bring the battery to the holder",
+          "sub": "",
+          "t0": 0.6,
+          "t1": 5.5,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "Take the battery in your other hand and bring it to the holder.",
+        "startSec": 0.4
+      },
+      "notes": "Battery is in the right hand near 0:40, moving toward the ePod."
+    },
+    {
+      "id": "S07",
+      "title": "Insert the battery",
+      "kind": "footage",
+      "source": {
+        "fromSec": 44,
+        "toSec": 51,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 1230,
+        "durationFrames": 210,
+        "fromSec": 41.0,
+        "durationSec": 7.0
+      },
+      "zoom": [
+        {
+          "t0": 0.5,
+          "t1": 7,
+          "scale": 1.7,
+          "cx": 0.48,
+          "cy": 0.62,
+          "easeIn": 0.8,
+          "easeOut": 0.8
+        }
+      ],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.46,
+          "y": 0.62,
+          "r": 0.06,
+          "t0": 0.5,
+          "t1": 7,
+          "approx": true
+        },
+        {
+          "type": "stepBadge",
+          "n": 1,
+          "text": "Battery over the holder, + side up",
+          "t0": 0.3,
+          "t1": 3.3
+        },
+        {
+          "type": "stepBadge",
+          "n": 2,
+          "text": "Lower it in and press gently",
+          "t0": 3.4,
+          "t1": 7
+        },
+        {
+          "type": "polarity",
+          "text": "Positive (+) side up",
+          "box": {
+            "x": 0.5,
+            "y": 0.9
+          },
+          "t0": 0.5,
+          "t1": 3.3
+        }
+      ],
+      "narration": {
+        "text": "Keep the positive side facing up. Lower the battery into the holder and press gently.",
+        "startSec": 0.4
+      },
+      "notes": "Core moment of the video. Hands cover the holder, so use the ring only, no arrows."
+    },
+    {
+      "id": "S08",
+      "title": "Battery seated",
+      "kind": "footage",
+      "source": {
+        "fromSec": 50,
+        "toSec": 58,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 1440,
+        "durationFrames": 240,
+        "fromSec": 48.0,
+        "durationSec": 8.0
+      },
+      "zoom": [
+        {
+          "t0": 0.5,
+          "t1": 8,
+          "scale": 1.5,
+          "cx": 0.52,
+          "cy": 0.62,
+          "easeIn": 0.8,
+          "easeOut": 0.8
+        }
+      ],
+      "overlays": [
+        {
+          "type": "ring",
+          "x": 0.52,
+          "y": 0.62,
+          "r": 0.075,
+          "t0": 1.0,
+          "t1": 8,
+          "approx": true
+        },
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.52,
+            "y": 0.62
+          },
+          "box": {
+            "x": 0.8,
+            "y": 0.22
+          },
+          "text": "Seated",
+          "sub": "Flat and level",
+          "t0": 1.5,
+          "t1": 8,
+          "approx": true
+        },
+        {
+          "type": "check",
+          "x": 0.52,
+          "y": 0.62,
+          "box": {
+            "x": 0.74,
+            "y": 0.22
+          },
+          "t0": 2.0,
+          "t1": 8
+        }
+      ],
+      "narration": {
+        "text": "Press until the battery sits flat and level in the holder. It should not wobble.",
+        "startSec": 0.4
+      },
+      "notes": "Hands step away around 0:51 and the seated battery is clearly visible."
+    },
+    {
+      "id": "S09",
+      "title": "Check the fit",
+      "kind": "footage",
+      "source": {
+        "fromSec": 58,
+        "toSec": 66,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 1680,
+        "durationFrames": 240,
+        "fromSec": 56.0,
+        "durationSec": 8.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.65
+          },
+          "box": {
+            "x": 0.5,
+            "y": 0.1
+          },
+          "text": "Check: no gap, fully seated",
+          "sub": "",
+          "t0": 0.6,
+          "t1": 8,
+          "approx": true
+        },
+        {
+          "type": "ring",
+          "x": 0.5,
+          "y": 0.65,
+          "r": 0.12,
+          "t0": 2.0,
+          "t1": 8,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "Tilt the ePod slightly to check the battery is fully seated, with no gaps at the edge.",
+        "startSec": 0.4
+      },
+      "notes": "Presenter tilts the ePod to show the side. Positions approximate."
+    },
+    {
+      "id": "S10",
+      "title": "Recap diagram",
+      "kind": "diagram",
+      "out": {
+        "fromFrame": 1920,
+        "durationFrames": 300,
+        "fromSec": 64.0,
+        "durationSec": 10.0
+      },
+      "reveal": [
+        {
+          "id": "panel-1",
+          "asset": "assets/diagram-step-1.svg",
+          "t": 1.0
+        },
+        {
+          "id": "panel-2",
+          "asset": "assets/diagram-step-2.svg",
+          "t": 3.2
+        },
+        {
+          "id": "panel-3",
+          "asset": "assets/diagram-step-3.svg",
+          "t": 5.6
+        }
+      ],
+      "narration": {
+        "text": "To recap: position it, lower it in, press flat, and check. Always keep the positive side up.",
+        "startSec": 0.6
+      },
+      "notes": "Generated explanatory graphic only. No hardware is redrawn realistically.",
+      "overlays": [],
+      "zoom": []
+    },
+    {
+      "id": "S11",
+      "title": "Removing the battery",
+      "kind": "footage",
+      "source": {
+        "fromSec": 66,
+        "toSec": 72,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 2220,
+        "durationFrames": 180,
+        "fromSec": 74.0,
+        "durationSec": 6.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.5,
+            "y": 0.55
+          },
+          "box": {
+            "x": 0.5,
+            "y": 0.1
+          },
+          "text": "Removing the battery",
+          "sub": "",
+          "t0": 0.5,
+          "t1": 6,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "To remove it, gently ease the battery out with your fingertip.",
+        "startSec": 0.4
+      },
+      "notes": "Removal method is inferred from about 0:66 to 0:72. Confirm with a subject-matter expert before publishing."
+    },
+    {
+      "id": "S12",
+      "title": "Outro",
+      "kind": "footage",
+      "source": {
+        "fromSec": 72,
+        "toSec": 77,
+        "playbackRate": 1,
+        "freezeExtendSec": 0
+      },
+      "out": {
+        "fromFrame": 2400,
+        "durationFrames": 150,
+        "fromSec": 80.0,
+        "durationSec": 5.0
+      },
+      "zoom": [],
+      "overlays": [
+        {
+          "type": "label",
+          "anchor": {
+            "x": 0.36,
+            "y": 0.6
+          },
+          "box": {
+            "x": 0.5,
+            "y": 0.12
+          },
+          "text": "Holder empty",
+          "sub": "Ready for the next battery",
+          "t0": 0.5,
+          "t1": 5,
+          "approx": true
+        }
+      ],
+      "narration": {
+        "text": "With the battery out, the holder is empty and ready for the next one.",
+        "startSec": 0.4
+      },
+      "notes": "Source ends on an empty ePod with the battery beside it, so the outro must not claim the ePod is ready to use."
+    }
+  ]
+}

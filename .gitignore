@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Remotion & Webpack caches
+.remotion/
+.cache/
+
+# Render build outputs (reproducible via npm run build)
+epod_video_design/out/
+EpodJumperWireVideo/renders/final/
+EpodJumperWireVideo/renders/preview/
+
+# System & temporary logs
+*.log
+.DS_Store
+Thumbs.db
