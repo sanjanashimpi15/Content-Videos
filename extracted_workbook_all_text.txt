@@ -1,0 +1,2016 @@
+Circito Guidebook
+Sr.
+Section
+Page
+1
+List of Experiments
+2
+2
+List of Applications &amp; Projects
+3
+3
+Parts Identification
+4
+4
+Warnings and precautions
+6
+5
+About the ePods
+7
+6
+Inserting 3V Battery into ePod
+8
+7
+Connecting DC Motor with Motor ePod
+9
+8
+Connecting external LEDs
+9
+9
+Symbols &amp; basic information of components
+10
+10
+How to perform tinkering in every experiment
+12
+11
+Worksheets of all experiments
+13
+12
+Model chart
+64
+13
+Application description
+66
+14
+Project description
+68
+All rights reserved. No portion of this book / study material may be reproduced in any form, or stored in a retrieval system by any means, electronic, mechanical, photocopying, recording, scanning, web or otherwise without the written permission from the publisher. However, the publisher or its editors or authors or illustrators don’t take any responsibility for the absolute accuracy of any information published and the damage or loss suffered thereupon. All disputes are subject to Mumbai jurisdiction only.
+V2.1.26.6.22
+List of Experiments
+Sr.
+Experiment
+Sr.
+Experiment
+1
+LED – Red connection
+26
+Buzzer or other using a Switch
+2
+Continuity tester
+27
+LED or Motor using Slide switch
+3
+Short circuit
+28
+Buzzer &amp; LEDs with Latch &amp; Momentary control
+4
+A fuse in a circuit
+29
+Parallel LEDs &amp; Motor in Complex circuit
+5
+LEDs in Series
+30
+LEDs, Motor &amp; Buzzer in Complex circuit
+6
+LEDs in Parallel
+31
+Dual speed fan
+7
+LEDs in Complex circuit
+32
+Motor direction indicator
+8
+Light control – Momentary
+33
+NOT logic gate
+9
+Placement of switch
+34
+Resistor connection
+10
+Buzzer connection
+35
+The common Resistor
+11
+Sound control – Momentary
+36
+Bright or dim light
+12
+Buzzer &amp; other in Parallel
+37
+Bright or dim with Momentary control
+13
+Buzzer &amp; other in Series
+38
+Various modes of LED
+14
+Motor connection
+39
+Vary light intensity – I
+15
+Motor control – Momentary
+40
+Vary light intensity – II
+16
+Three outputs in Parallel
+41
+Vary fan speed – I
+17
+Four outputs in Parallel
+42
+Vary sound volume
+18
+Motor &amp; Buzzer in Complex circuit
+43
+Red or Green using Trim–pot
+19
+Light control – Latch
+44
+LED or other using Trim–pot
+20
+Electricity in Water
+45
+LED &amp; other in Complex circuit with Trim–pot
+21
+Sound control – Latch
+46
+Motor as Generator
+22
+Motor control – Latch
+47
+Blow to turn ON two outputs in Parallel
+23
+LED &amp; Motor in Series
+48
+Blow to turn OFF light
+24
+LED &amp; Motor in Parallel
+49
+Blow to increase the light – I
+25
+Red or Green using Slide switch
+50
+Toggle between LEDs using DC Motor
+Each experiment has various combinations to try in the electronic circuit, thus developing research &amp; development skills. You must observe what happens when you change something in the given circuit and write them appropriately.
+List of Applications
+Sr.
+Title
+Exp.
+Sr.
+Title
+Exp.
+1
+Metal detector
+2
+9
+Traffic light
+25
+2
+Torch
+8
+10
+Quiz game judge
+25
+3
+Electronic toy gun
+12
+11
+Dual alarm
+28
+4
+Wheel of knowledge
+15
+12
+Road barricade
+35/36
+5
+Guide the ball
+15
+13
+Dual intensity headlight
+35/36
+6
+Model of humanoid
+17/19
+14
+Airplane model
+45
+7
+Electronic pet
+17/19
+15
+Blow off the candles
+48
+8
+Water level indicator
+21
+16
+Storm alert
+50
+List of Projects
+Sr.
+Title
+Exp.
+Sr.
+Title
+Exp.
+1
+Disco light
+1
+13
+Cap with fan
+22
+2
+Miner's helmet
+8
+14
+Audio-visual alarm
+26
+3
+Doorbell
+11
+15
+Merry-go-round
+27
+4
+Footbell
+11
+16
+Refrigerator fan and light
+31
+5
+Portable hand fan
+15
+17
+Refrigerator door
+33
+6
+Electronic rotating dice
+15
+18
+Patient indicator
+33
+7
+Hypnotizing wheel
+15
+19
+Multi-mode hanging lamp
+36
+8
+Operation theatre light
+19
+20
+Light regulator
+39
+9
+Electronic lantern
+19
+21
+Regulated floor fan
+41
+10
+Model of house
+17/20
+22
+Volume controller
+42
+11
+Vacuum cleaner
+22
+23
+Wind energy generation
+46
+12
+Hand mixer
+22
+24
+Dynamo with wind energy
+46
+A project is a working model created by combining an experiment or circuit with a suitable structure and shape using art &amp; craft materials. You can use your creativity &amp; innovation while designing the model. The projects listed here are only a few examples made using this kit. You can explore more ideas and create many other unique projects beyond this list.
+Parts Identification
+3V Battery ePod
+Tact Switch ePod
+LED – Green ePod
+LED – Red ePod
+Slide Switch ePod
+Trim–pot ePod
+Buzzer ePod
+DC Motor ePod
+Resistor ePod
+DC Motor
+Meco strip 3x11
+Meco strip 1x11
+Joint L-angle 3x3
+Multicolour LEDs
+Screw driver
+Spanner 3M
+Pulley &amp; Propeller
+Bolts – B315
+Nuts – N3
+Single strand wire
+Jump wires
+(long &amp; short, red &amp; black)
+Warnings &amp; Precautions
+This kit is intended to be used by children who have attained enough maturity to read, understand and follow all the safety measures.
+Human safety – general
+Keep away from small children; especially below 7 yrs. age.
+The pins available for connection on various parts are pointed and may hurt you if misused. So, handle the ePods with care while using them for experiments.
+Never put any part of the kit in mouth or swallow.
+Do not touch the fan when it’s moving.
+Do not swing or throw any part of the kit on friends, animals &amp; any living being.
+Do not put any part in the fire.
+Human safety – Battery &amp; power supply
+Do not insert any part of the kit in the electrical supply sockets available at your house/institution/class/lab; basically nowhere.
+Never connect any other type of Battery or any power source which is not provided with the kit.
+Never connect the two Battery terminals (positive &amp; negative) directly to each other unless given in any experiment. Even so, do not keep them connected for long.
+Do not attempt to recharge the Batteries provided.
+Do not throw Batteries in the fire.
+Do not attempt to break or open the Batteries.
+Parental guide
+Make sure the child follows all the rules and safety measures before beginning with experiments. Kindly assist the child, if he/she is younger than 10 yrs. age, for all experiments, especially the ones containing moving parts.
+Kit &amp; parts safety
+Use every ePod carefully because misuse can break them.
+Always make the connections carefully to avoid damage to the components.
+Crosscheck the circuit connections with the circuit diagram for each experiment.
+Do not put any part in water without discussing it with your Instructor/Teacher.
+Keep all the parts in the box safely so that they do not get lost or broken.
+About the ePods
+Each of the electronic components which you are going to use has an independent assembly called ‘ePod’. They are made for easier, faster &amp; multiple connections. Whenever you are asked to use a certain component in the experiment (e.g. Motor), it means that you will have to use that component’s ‘ePod’ (e.g. Motor ePod).
+ePod Terminals
+All the ePods have minimum of 4 connector points known as Nodes for connections, given at the border of the ePod.
+Every ePod has at least 2 Nodes. Nodes are named as letters such as P, N, A, B, C, D, and E. Each Node has 4 connector pins on top side.
+You can use any or all the pins, as per the circuit.
+Connecting the ePods
+Different ePods can be connected to each other using the jump wires provided. Hence it becomes very easy to make the connections.
+Insert/plug one end of the jump wire to the pin of any one Node of an ePod which needs to be connected as shown.
+Use the other end of the jump wire to connect the second component, through any pin of the ePod as suggested in circuit diagram.
+Inserting 3V Battery into ePod
+We are using 3V (3 volts) Battery in this kit. It is not inserted inside the Battery ePod. We are using a 3V Battery which is commonly known as Button cell or coin Battery.
+3V Battery is kept in a sealed pack in one of the sections of the main container box. You will have to remove it from the packing; which can be a difficult job sometimes. The ePod consists of Battery holder which locks the Battery within itself.
+Insert the Battery as shown in the figure below.
+The printed side of the Battery (or shiny surface) should be on top of Battery ePod.
+After inserting Battery you are ready to do connect it with other components as given in experiment worksheets. After performing any experiment, disconnect the wires from the Battery ePod but keep the Battery in the ePod. Don’t worry it will not drain the Battery unless it is connected to any other components.
+If a Battery gets drained or you want to remove it, you need to push the lock which you can see on one side of the Battery. You can do it using your fingers or use the screw driver given in your kit. As soon as you push the lock, the Battery will pop a little from the ePod and you can then easily take out the Battery using your hand.
+Push this strip towards left (other strip) to remove the 3V Battery from Battery ePod.
+Push this strip towards left (other strip) to remove the 3V Battery from Battery ePod.
+Connecting DC Motor with Motor ePod
+Put the propeller on rotating shaft (int the center) of DC Motor. The connector of the DC Motor will go to the central pins of the DC Motor ePod. The Red wire should be connected towards the P side of ePod and Black wire should be connected towards N side of ePod. Follow the image below for connecting DC Motor with Motor ePod.
+Red wire towards P
+Red wire towards P
+Black wire towards N
+Black wire towards N
+Propeller inserted to shaft of DC Motor
+Propeller inserted to shaft of DC Motor
+N
+N
+Do not remove the propeller with your hands, as it can break the blades of the propeller. To remove the propeller from the DC Motor, always use the screw driver. Place the screw driver between the body and the shaft. Using the screw driver, push the propeller outward.
+To connect or remove the pulley, use the same method as propeller.
+Connecting external LEDs
+The external LEDs have two legs. The longer leg is its positive pin (Anode) and shorter leg is its negative pin (Cathode). The positive leg of LED must be connected to P of 3V Battery ePod &amp; the negative leg of LED must be connected to N of 3V Battery ePod using jump wires.
+Negative side to N
+Negative side to N
+Positive side to P
+Positive side to P
+Symbols &amp; basic information of components
+Every experiment contains a Circuit diagram which is a graphical representation of the interconnection between the components. It helps in understanding number of components and wires to be used for connection.
+We will use ePods for actual connection, but on paper we use symbols to represent the components within a circuit diagram. Symbols help in understanding number of pins or connection points on a component; it represents the component as well as the ePod.
+Following are the advantages of using symbol in circuit diagram –
+Symbols are easier &amp; faster to use (draw), irrespective of language.
+Symbols are standard and universally accepted, hence easier to understand.
+Symbols simplify the circuit diagram and interconnection between components.
+3V Battery
+Number of Terminals: 2
+Information:
+Battery has 2 Terminals: positive (+) and negative (–). The 2 terminals are also called polarities of Battery.
+In this Kit, the positive terminal is denoted by capital letter P and negative terminal with N.
+It is the source of electricity in a circuit. Battery has voltage &amp; current. We use 3 volts Battery; volt is unit to measure voltage.
+Symbol:
+Power device/component
+LED (Red &amp; Green)
+Number of Terminals: 2
+Information:
+LED has 2 terminals. In this kit, P is for Anode &amp; N is for Cathode.
+Most LEDs with 2 pins have same symbol even if colour &amp; size are different. LED converts Electrical energy to Light energy.
+It emits light if connected correctly with Battery. Red &amp; Green are two options we provide, in same 5mm size.
+Symbol:
+Output device/component
+Tact switch
+Number of Terminals: 2
+Information:
+Tact switch has 2 terminals. In this kit it is denoted by A &amp; B.
+It allows current to pass through it only when it is pressed, hence giving Momentary control.
+It provides human control in a circuit. It allows current to flow in both the direction.
+Symbol:
+Input device/component
+Slide switch
+Number of Terminals: 3
+Information:
+Slide switch has 3 terminals. In this kit it is denoted by C, D &amp; E.
+It allows current to pass through the point you slide to, and it remains in same position until you change, hence giving Latch control.
+It provides human control in a circuit. It helps in choosing between two options by sliding on either side.
+Symbol:
+Input device/component
+DC Motor
+Number of Terminals: 2
+Information:
+DC Motor has 2 terminals. In this kit it is denoted by P &amp; N.
+It converts Electrical energy to Mechanical energy. We are using gearless Motor. The centre of Motor which rotates is called shaft/rotor.
+It provides rotational motion in clockwise &amp; anti–clockwise directions. It also works as Generator of Electricity.
+Symbol:
+Output device/component
+Buzzer
+Number of Terminals: 2
+Information:
+Buzzer has 2 terminals. In this kit it is denoted by P &amp; N.
+It converts Electrical energy to Sound energy. It is also called Beeper due to its use. It is available in very few sizes, which are all small.
+It emits Sound if connected correctly with Battery. It gives sound in one tone called Monotonous sound.
+Symbol:
+Output device/component
+Resistor (1KΩ)
+Number of Terminals: 2
+Information:
+Resistor has 2 terminals. In this kit it is denoted by A &amp; B.
+The property of Resistor to obstruct current is known as Resistance which is measured in ‘Ohms’ and denoted as ‘Ω’. They are available in various values.
+It resists/obstructs electric current in the path of circuit where it is connected. It is measured in ohms (Ω). We are using 1000 ohms Resistor.
+Symbol:
+Passive device/component
+Trim–pot (10 KΩ)
+Number of Terminals: 3
+Information:
+Trim–pot has 3 terminals. In this kit it is denoted by C, D &amp; E.
+It is a variable Resistor, whose resistance can be changed by a human by rotating its head. Its value is defined by maximum resistance, in our case it is 10,000Ω.
+It is a type of variable Resistor. It obstructs electric current in a circuit and it can be varied by rotating the head/screw on it.
+Symbol:
+Input device/component
+The information given here is in simplified manner. The actual science behind every component is more complex, but we do not need to get into it.
+Also, the components are available in various types, sizes, shapes, colours and values. It is beyond the scope of this workbook to cover everything.
+How to perform Tinkering in every Experiment
+Sr.
+Circuit condition &amp; output
+Circuit diagram for tinkering
+1)
+Connect circuit as shown.
+Output &gt;&gt; LED glows until we press the switch :)
+2)
+Reverse the Tact switch.
+Output &gt;&gt; LED glows until we press the switch :)
+3)
+Interchange the positions of Tact switch &amp; LED – Red.
+Output &gt;&gt; LED glows until we press the switch :)
+4)
+Reverse LED – Red.
+Output &gt;&gt; LED does not glow even if switch is pressed :(
+5)
+Connect LED – Green instead of LED – Red.
+Output &gt;&gt; LED – Green glows until we press the switch :)
+Experiments
+01. LED – Red connection
+To glow a Red LED &amp; understand how a LED works.
+Components: 3V Battery, LED – Red, 2x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+3V Battery (N)
+(N) LED – Red
+You will observe that the LED starts glowing as soon as you complete the connection. It will continue to glow until Battery drains out (becomes empty i.e. zero volt) or any jump wire is removed. So, remove jump wire to save electricity.
+Information:
+A Battery is a source of electricity, an energy source (power supply). It provides voltage and current in the circuit. 3V stands for 3 volts. Without the Battery or any other source of electricity the circuit will not work.
+LED stands for Light Emitting Diode. It is as an output device which emits (throws out / releases) light. Output means giving out or producing something. LED consumes the electrical energy and converts it into Light energy. Thus conversion of energy takes place.
+LED only allows the current to flow from anode to cathode. Such components which allow current to flow in only one direction are called as uni-directional components.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the LED.
+02. Continuity tester
+To check if there is continuity between two points &amp; learn about open circuit.
+Components: 3V Battery, LED – Red, 3x jump wires, 2x 1–strand wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+3V Battery (N)
+1–strand wires
+LED – Red (N)
+1–strand wires
+Now you will have 2 open ends (open terminals) of 1–strand wires. When you do not touch the open ends anywhere, LED does not glow. It is because it is an open circuit and electricity doesn’t flow through the air. But when you touch the open ends to each other, the LED will glow because it becomes a close circuit &amp; electricity flow through it.
+Now place the open ends on piece of paper. The LED doesn’t glow since paper is a bad conductor (insulator). When you place the open ends on any metal, the LED glows since metals are good conductor and allows current to flow through them.
+Information:
+An open circuit is a circuit in which one of the jump wires is not connected to any part in the circuit. Also, if a wire is not connected to the positive or negative pole of the Battery in a circuit, then the circuit will not work.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown &amp; touch open terminals to each other.
+2
+Touch open terminals on steel ring.
+3
+Touch open terminals on plastic box.
+03. Short circuit
+To learn the effect of a short circuit.
+Components: 3V Battery, LED – Red, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+3V Battery (N)
+(N) LED – Red
+LED – Red (P)
+(N) LED – Red
+The LED does not glow because there is a short circuit (direct path) between the positive pole (P) &amp; negative pole (N) of 3V Battery.
+Warning: Do not keep this circuit connected for long time or else Battery will heat up.
+If we compare with Expt. 1, then we are connecting an extra jump wire in parallel to LED – Red. If we compare to Expt. 6, in place of LED – Green, we are connecting a jump wire.
+Do we see any change in output?
+Information:
+In a short circuit there is a direct passage/path between the positive pole &amp; negative pole of the power source of that circuit; thereby all the current flows through that path since there is no obstruction. This is very dangerous as a lot of heat is generated due to passing of all current in such a way, which may result in fire. This can happen at home.
+There is no fire generated in this experiment &amp; kit because we use a power source with low current &amp; voltage; but a chemical will leak if we short circuit 3V Battery for long time.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Disconnect the short circuit wire after 20 seconds.
+04. A Fuse in a circuit
+To understand the working of a fuse.
+Components: 3V Battery, LED – Red, 3x jump wires, Pencil lead (0.5 ~ 1mm).
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+pencil lead
+LED – Red (P)
+pencil lead
+3V Battery (N)
+(N) LED – Red
+Insert a pencil lead between the open terminals of these two jump wires (as shown in the diagram).
+In this experiment pencil lead acts like a fuse, allowing current to pass through it. When it is broken, it becomes open circuit and hence no current passes further.
+Information:
+Sometimes the voltage or current supplied by the power source increases due to some fluctuation (a kind of fault); because of this the power consumed by appliances increases which can cause damage to it (sometimes even Fire). The ‘Fuse’ is an electrical part that is connected before any output i.e. in the initial path of the circuit to protect the components from damage.
+There is a filament of conducting material used inside a fuse. It melts whenever current increases. When it melts it breaks the connection (making an open circuit) and hence no electricity passes further. The material used for filament in a fuse is zinc, copper, silver, aluminium or alloys.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Break the pencil lead.
+2
+Try with 1–strand wire in place of pencil lead.
+05. LEDs in Series
+To see the effect on 2 LEDs connected one after another &amp; learn about Series circuit.
+Components: 3V Battery, LED – Red, LED – Green, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire –
+From
+To
+3V Battery (P)
+(P) LED – Red
+LED – Red (N)
+(P) LED – Green
+3V Battery (N)
+(N) LED – Green
+Do we see any LED glowing? No, because there isn’t enough voltage to glow both the LEDs since they are connected in line (series) with each other using only one 3V Battery.
+Information:
+Two or more components are in ‘Series’ if they are connected one after another without any other connection in between.
+When components are in Series, the voltage gets divided between them (nearly 1.5V to each LED) but current passing through them remains the same.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Interchange the position of both the LEDs.
+3
+Replace Battery with USB.
+06. LEDs in Parallel
+To see the effect on 2 LEDs in two different paths &amp; learn about Parallel circuit.
+Components: 3V Battery, LED – Red, LED – Green, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+3V Battery (P)
+(P) LED – Green
+3V Battery (N)
+(N) LED – Green
+3V Battery (N)
+(N) LED – Red
+Here both the LEDs are directly connected to 3V Battery. Such a connection is called parallel connection. Even if you remove one LED, the path of other LED is still intact/closed and hence it will glow. If one of the LED is removed other glows brightly because it will now get all the current.
+Information:
+Two or more components are in ‘Parallel’ if they are connected to the same two points. When two components are in parallel, the voltage between them remains the same but current passing through them gets divided.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Disconnect (P) of LED – Green.
+3
+Reverse LED – Green.
+07. LEDs in Complex circuit
+To see the effect on two LEDs in two different paths &amp; learn about Complex circuit.
+Components: 3V Battery, LED – Red, LED – Green, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+LED – Red (N)
+(P) LED – Green
+LED – Red (N)
+(N) 3V Battery
+3V Battery (N)
+(N) LED – Green
+Do we see any LED glowing? LED – Red glows bright just like in Expt. 1 but LED – Green does not glow because there is a short circuit wire in parallel to it which passes all the current through it and LED – Green does not receive any current. LED – Red &amp; LED – Green are not in parallel to each other.
+Information:
+A Complex circuit is a mix of Series &amp; Parallel circuits. In the given experiment, LED – Green is in parallel to a wire and these two together are in Series with LED – Red. Make no mistake, LED – Red &amp; LED – Green are neither in Series nor in Parallel to each other.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse LED – Red.
+08. Light control – Momentary
+To learn the working of Tact switch &amp; concept of Momentary control input &amp; output.
+Components: 3V Battery, LED – Red, Tact switch, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) LED – Red
+LED – Red (N)
+(N) 3V Battery
+When you press the switch then LED starts glowing; but if you don’t press then LED doesn’t glow. As long as you press the Tact switch, the LED glows but the moment you release the switch, LED turns OFF.  This is called ‘momentary’ control of output.
+Information:
+Tact switch is a switch which gives Momentary control for the output connected to it. When you press it, it will allow electricity to pass between its two points but when you release it then the switch will not allow any electricity to pass through it. When switch is pressed, it creates close circuit and when switch is unpressed, it creates open circuit.
+Tact switch is a bi-directional component which allows current to flow in both directions, unlike LED and battery which are uni-directional component.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the Tact switch.
+3
+Create a circuit to glow two LEDs together when switch is pressed.
+09. Placement of Switch
+To understand how placement of a switch affects LEDs in parallel.
+Components: 3V Battery, LED – Red, LED – Green, Tact switch and 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+LED – Red (N)
+(N) 3V Battery
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) LED – Green
+LED – Green (N)
+(N) 3V Battery
+Initially LED – Red will turn on because it is directly connected to 3V Battery. As soon as you press the Tact switch, LED – Green will turn on (glow). Once you release the Tact switch, LED – Green will turn off. This is because Tact switch provides momentary control. Led – Red will remain on all the time.
+Information:
+The position of a switch in the circuit plays an important role. LED – Red is directly connected to Battery without any switch in between. The switch will control LED – Green (turn it on or off) since it is connected in same path. Pressing the switch will not affect operation of LED – Red. If we want to simultaneously turn on/off both the LEDs then we need to place the Tact switch before both the LEDs. Think about it &amp; try it.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Create the circuit such that when Tact switch 1 is pressed, LED – Red turns on and when Tact switch 2 is pressed, LED – Green turns on.
+10. Buzzer connection
+To produce sound from Buzzer &amp; understand how it works.
+Components: 3V Battery, Buzzer, 2x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) Buzzer
+3V Battery (N)
+(N) Buzzer
+Once you connect the circuit, you will get a continuous beeping sound. If you connect the Buzzer in reverse direction, then you don’t get any beeping sound. This is because Buzzer allows current to flow only in one direction, i.e. it has polarity.
+Information:
+Buzzer is an output device, which emits sound. Buzzer converts electrical energy to sound energy. Output of the Buzzer is a beep sound which is used in many applications. Since the sound is like a beep, we also call it as ‘Beeper’.
+Buzzer is a uni–directional device. It means it allows the current to flow through it only in one way and that is from the positive node (anode) to negative node (cathode). Hence when you reverse the Buzzer in above circuit, it doesn’t work.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the Buzzer.
+11. Sound control – Momentary
+To implement ‘Momentary’ control of sound.
+Components: 3V Battery, Tact switch, Buzzer, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) Buzzer
+Buzzer (N)
+(N) 3V Battery
+As long as you press the Tact switch, the Buzzer emits sound. But the moment you release the switch, sound stops.  Thus, we get Momentary control of sound.
+Information:
+This circuit can be used as an electrical doorbell. Whenever a person wants to ring the bell, he will press the Tact switch. The Buzzer, which is inside the room will beep, indicating that someone is waiting at the door. We usually do not use Buzzer in actual ‘Doorbell’ application, but we use a speaker which gives better sound.
+Buzzers come in various sizes. The one we use is a 10 mm (1 cm) Buzzer. There are bigger sizes too, although the connection method is same. The colour of the Buzzer does not make any difference to the sound output.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Interchange the positions of Tact switch &amp; Buzzer.
+12. Buzzer and other in Parallel
+To see the effect on output device connected in parallel with Buzzer.
+Components: 3V Battery, LED – Red, Tact switch, Buzzer, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire between –
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) Buzzer
+Tact switch (B)
+(P) LED - Red
+Buzzer (N)
+(N) 3V Battery
+LED - Red (N)
+(N) 3V Battery
+When you press the Tact switch Buzzer will beep and LED – Red will glow. This is because Buzzer and LED – Red are connected in parallel with each other. As soon as you release the Tact switch the Buzzer will stop beeping and LED – Red with not glow.
+Information:
+This circuit can be used in offices or factories to create audio–visual alarm. Audio means sound &amp; visual means something that is seen. During emergency one has to press the Tact switch which will turn on LED – Red and also Buzzer will start generating sound and alert the workers about the emergency.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the Tact switch.
+13. Buzzer and others in Series
+To test the working of a circuit with output devices in Series with Buzzer.
+Components: 3V Battery, LED – Red, Tact switch, Buzzer, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) Buzzer
+Buzzer (N)
+(P) LED - Red
+LED - Red (N)
+(N) 3V Battery
+When you press the switch, the LED will glow dim and sound from Buzzer will be very low or no sound, as they are connected in line (series) with each other using only 3V Battery. Also try using LED – Green &amp; DC Motor in place of LED – Red and check the output.
+Information:
+The LED and the Buzzer are in ‘Series’ as they are connected one after other without any other wire/connection in between. Since they are in Series the voltage gets divided between them but current passing through them remains the same; hence output is low.
+The switch only acts as an Input or on/off for the passage of electricity and it does not consume any voltage and current. Hence the output is not different from the Experiment with LEDs in series. The position of the switch also does not matter.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Try this experiment with USB cable power source.
+14. Motor connection
+To run a DC Motor &amp; understand how it works.
+Components: 3V Battery, DC Motor, 2x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) DC Motor
+3V Battery (N)
+(N) DC Motor
+Please check if the propeller (fan) is connected to the Motor.
+Once you connect the circuit, the Motor will rotate in clockwise direction. Now, reverse the Motor connections with the Battery. You will observe that the Motor rotates in anti–clockwise direction i.e. opposite of clockwise direction.
+Information:
+The Motor is a bi–directional output device. Bi–directional means two directions and output means producing something. Motor uses electricity to produce rotational motion. It converts electrical energy into mechanical energy. The Motor body does not rotate, but only the shaft in the centre of Motor rotates.
+It rotates clockwise when the positive of the Battery (P) is connected to positive of the Motor (P) [red wire] and negative of the Battery (N) is connected to the negative of the Battery (N) [black wire]. Motor does not stop when we reverse the connections.
+We call it ‘DC’ Motor because it works on Direct current (DC) type of electricity. 3V Battery that we use for our experiments gives ‘DC’ type of electricity.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the DC Motor.
+15. Motor control – Momentary
+To implement ‘Momentary’ control of DC Motor &amp; study about Inertia.
+Components: 3V Battery, Tact switch, DC Motor, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection:  Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) DC Motor
+DC Motor (N)
+(N) 3V Battery
+The fan (on Motor) rotates as long as you press the switch; when you release the switch the fan stops rotating. The fan actually stops a few milliseconds after we release the switch because of Inertia.
+Information:
+Inertia is the tendency (habit) of a body to remain unchanged. This means that if a body is resting then it will continue to rest until an external force acts on it. In same way a body will continue to move (or rotate, in this case) until an external force changes its direction or stops it. The fan would have continued to rotate even after releasing the switch but the resistance from air stops it.
+Motors come in various speeds. The one we use has a speed of 3600 rotations per minute (RPM) which means it rotates 60 times in one second. Higher rpm means higher speed.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Create a circuit such that when switch is pressed, DC Motor rotates anti clockwise.
+16. Three outputs in Parallel
+To study the effect on three output devices in Parallel connection.
+Components: 3V Battery, LED – Red, Tact switch, DC Motor, Buzzer, 7x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(A) Tact switch
+LED – Red (N)
+(N) 3V Battery
+Tact switch (B)
+(P) LED – Red
+DC Motor (N)
+(N) 3V Battery
+Tact switch (B)
+(P) DC Motor
+Buzzer (N)
+(N) 3V Battery
+Tact switch (B)
+(P) Buzzer
+When you press the Tact switch, LED starts glowing, Motor starts rotating and Buzzer starts beeping. This is because LED, Motor and Buzzer are connected in parallel to each other, due to which voltage across them remains equal and sufficient to turn on all of them.
+Information:
+When there are more devices connected in parallel then we need a power supply with high current &amp; enough voltage. If we use a 3V Battery with more electric current, then the output will have more intensity.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Try the same experiment with USB instead of Battery.
+17. Four outputs in Parallel
+To study the effect on four output devices connected in Parallel.
+Components: Battery, LED – Red, LED – Green, Tact switch, DC Motor, Buzzer, 9x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(A) Tact switch
+LED – Red (N)
+(N) 3V Battery
+Tact switch (B)
+(P) LED – Red
+LED – Green (N)
+(N) 3V Battery
+Tact switch (B)
+(P) LED – Green
+DC Motor (N)
+(N) 3V Battery
+Tact switch (B)
+(P) DC Motor
+Buzzer (N)
+(N) 3V Battery
+Tact switch (B)
+(P) Buzzer
+When you press the Tact switch, LEDs will glow, Motor will rotate and Buzzer will beep. This is because LEDs, Motor and Buzzer are connected in parallel with each other and there is enough voltage &amp; current to get output from each of them.
+Information:
+In every Parallel circuit, if any individual component is wrongly connected then it will not allow current to pass through it; also, if there is any wire not connected then it will make it an open circuit. In such cases only that component will not give output, but others will.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the 3V Battery.
+18. Motor and Buzzer in Complex circuit
+To observe behavior of DC Motor &amp; Buzzer in a complex circuit.
+Components: 3V Battery, Tact switch, DC Motor, Buzzer, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+Tact switch (B)
+(P) Buzzer
+Buzzer (N)
+(P) DC Motor
+Buzzer (N)
+(N) 3V Battery
+DC Motor (N)
+(N) 3V Battery
+When you press the Tact switch only Buzzer will beep and Motor will not rotate. This is because of low resistance path connected between the ends of Motor. Thus, no current will flow through Motor.
+Information:
+A Complex circuit needs at least 3 components. The given circuit is also a Complex circuit, but instead of 3 components, it has only 2, whereas the 3rd component is a wire.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Interchange the position of Buzzer and DC Motor.
+19. Light control – Latch
+To learn the working of a Slide switch &amp; concept of ‘Latch’ control input and output.
+Components: 3V Battery, LED – Red, Slide switch, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(C) Slide switch
+Slide switch (E)
+(P) LED – Red
+LED – Red (N)
+(N) 3V Battery
+No connection at (D) of Slide switch.
+When you move the Slide switch knob (head) towards ‘D’ the LED does not glow. This is because there is nothing connected at ‘D’ and it creates an open circuit. But if you slide the switch knob towards ‘E’ the LED starts glowing, since LED is connected at ‘E’ and it creates a close circuit.
+The LED keeps glowing (when slider is at ‘E’) even after you do not touch/hold the switch. LED stops glowing (slider at ‘D’) even after you release the switch. This means, the output remains in the state you put it in. This is called ‘Latch’ control of output.
+Information:
+A Slide switch has 3 terminals. At any given time, any two points are connected, either D to ‘C’ or ‘E’ to ‘C’. Thus ‘C’ is the base/common connection. ‘C’, ‘D’ &amp; ‘E’ are notations that we use; it can be named by any other letters too.
+When you slide the knob towards ‘E’, terminals ‘C‘ &amp; ‘E’ get connected internally and connection between ‘C’ &amp; ‘D’ gets broken. If you slide the knob towards ‘D’, terminals ‘C’ &amp; ‘D’ get connected internally and connection between ‘C’ &amp; ‘E’ gets broken.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect LED at ‘D’ instead of ‘E’.
+20. Electricity in water
+To test if water conducts electricity.
+Components: 3V Battery, LED – Red, Slide switch, 4x jump wires, 2x 1–strand wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED – Red (P)
+1–strand wire
+Slide switch (E)
+1–strand wire
+LED – Red (N)
+(N) 3V Battery
+Now you will have 2 open ends (open terminals) of 1–strand wires which you need to put in a cup or bowl of tap water. Note: Do not put the whole circuit in water.
+When the Slide switch is at ‘D’ nothing happens. When you move the Slide switch towards ‘E’ LED – Red will glow dim. This is because there is little current flowing through water.
+Information:
+Electricity will pass through (conduct) water if it is impure. Tap water is little impure. Pure water does not conduct electricity (insulator) and circuit acts as open circuit.
+You can try same experiment with boiled water. Tap water already has salts inside which makes the water good conductor of electricity and circuit is now closed circuit. To increase the conductivity of water, we can add more salt to it.
+This will cause more current to flow through water and LED will get more voltage and current. Since we use low voltage, we are safe even if we are in contact with water that conducts electricity. But please stay away from wires in water, it can be dangerous.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown and immerse 1–strand wire in bowl of water.
+2
+Add some salt in water and notice the brightness of LED.
+21. Sound control – Latch
+To implement ‘Latch’ control of sound.
+Components: 3V Battery, Slide switch, Buzzer, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(C) Slide switch
+Slide switch (E)
+(P) Buzzer
+Buzzer (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘D’ the Buzzer doesn’t emit any sound. This is because nothing is connected at ‘D’. But if you move the Slide switch towards ‘E’ the Buzzer emits sound since it is connected at ‘E’.
+The Buzzer keeps emitting sound (when Slide switch is at ‘E’) even after you do not touch/hold the switch. When you move the Slide switch towards ‘D’, Buzzer stops producing sound even after you stop touching/holding the switch. This means, the output remains in the state you put it in. This is called ‘Latch’ control.
+Information:
+This type of circuit can be used as a ‘Manual Alarm’. In such an application, we have to manually slide a switch, after which sound starts. It is called an ‘alarm’ because it warns people about something severe. It is used in mines, offices, ships, banks, buildings etc.
+Buzzer emits only one type of sound, a single tone. Single tone sound is also called ‘Monotonous’ sound. Buzzer is also used in toys.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect the Buzzer with USB.
+22. Motor control – Latch
+To implement ‘Latch’ control of DC Motor.
+Components: 3V Battery, Slide switch, DC Motor, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(C) Slide switch
+Slide switch (E)
+(P) DC Motor
+DC Motor (N)
+(N) 3V Battery
+The fan (on Motor) starts rotating as soon as you move the Slide switch from ‘D’ to ‘E’ &amp; it keeps rotating until you move the Slide switch towards ‘D’, at which the fan stops rotating.
+The DC Motor experiences inertia even in Latch control.
+Information:
+Motors are also classified as geared and gearless. We are using a gearless Motor. Geared ones have additional gears attached to the Motor because of which the speed of Motor reduces, and it gains more strength for rotation.
+Motors are also classified as AC Motor and DC Motor. AC Motor works on AC (Alternating current) supply and DC Motor works on DC (Direct current) supply. AC and DC are two types of power supply. We get AC supply at our home and Batteries provide DC supply.
+Depending on the shape of the fan and direction of rotation, the air blows out (like normal fans) or the air is pulled in (like heat sink fans). These concepts are used in various applications and devices that we use.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Create a circuit such that when the Slide switch is towards ‘E’, DC Motor will rotate anticlockwise and when the Slide switch is towards ‘D’, DC Motor will stop rotating.
+23. LED and Motor in Series
+To study the effect of LED connected in series with a DC Motor.
+Components: 3V Battery, LED – Red, Slide switch, DC Motor, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(C) Slide switch
+Slide switch (E)
+(P)  LED - Red
+LED - Red (N)
+(P) DC Motor
+DC Motor (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’, LED will glow dim and the Motor will rotate slowly. The Motor and LED are connected in series with each other because of which the voltage gets divided between them, while current passing through them remains the same. Due to less voltage on each of them, LED &amp; Motor will work with less intensity.
+Information:
+The circuit gives different output based on the power supply (Battery) connected to it. Since we are using low supply (3V), a new Battery will make both LED &amp; Motor work but a used (old) Battery will only make LED glow but Motor will not work.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Try with USB power supply instead of Battery.
+24. LED and Motor in Parallel
+To study the effect of LED connected in Parallel to a DC Motor.
+Components: 3V Battery, LED – Red, Slide switch, DC Motor, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(C) Slide switch
+Slide switch (E)
+(P)  LED - Red
+Slide switch (E)
+(P) DC Motor
+LED - Red (N)
+(N) 3V Battery
+DC Motor (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’, LED with glow brightly and Motor will rotate faster. Since Motor and LED are in Parallel with each other, voltage across both of them remains same, but current gets divided. Even though current gets divided, there is enough current for each output to work.
+Information:
+This circuit will give nearly same output with old &amp; new Batteries. With higher power supply, the LED will glow brighter &amp; Motor will rotate at faster speed because the voltage will be high across both the outputs &amp; current through them will also be high.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Try with USB power supply instead of Battery.
+25. Red or Green using Slide switch
+To toggle between two outputs using a switch.
+Components: 3V Battery, LED – Red, LED – Green, Slide switch, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED - Red (N)
+(N) 3V Battery
+Slide switch (E)
+(P)  LED - Red
+LED - Green (N)
+(N) 3V Battery
+Slide switch (D)
+(P)  LED - Green
+When you move the Slide switch towards ‘E’, the LED – Red glows but Green does not.
+When you move the Slide switch towards ‘D’, the LED – Green glows but Red does not.
+Thus, either LED – Green will glow or LED – Red will glow. This is called Toggling. Both will not glow together in this type of circuit connection.
+Information:
+Toggling is just like jumping between two points. Even an on–off switching method is called toggling – we toggle between ‘on’ and ‘off’. The Slide switch that we use is also known as Toggle switch.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Create a circuit such that when Slide switch is moved towards ‘E’, both the LEDs turn on together and when moved towards ‘D’, both turn off.
+26. Buzzer or other using a Switch
+To Toggle between Buzzer &amp; other output using a switch.
+Components: 3V Battery, LED – Green, Slide switch, Buzzer, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED - Green (N)
+(N) 3V Battery
+Slide switch (E)
+(P)  LED - Green
+Buzzer (N)
+(N) 3V Battery
+Slide switch (D)
+(P)  Buzzer
+When you move the Slide switch towards ‘E’, the LED – Green starts glowing but there is no sound from Buzzer. When you move the Slide switch towards ‘D’, the Buzzer emits sound but LED – Green does not glow.
+Thus, either LED – Green will glow or Buzzer will emit sound. This is called Toggling. Both will not work together in this type of circuit connection.
+Information:
+This circuit can be used as an indicator or warning circuit in factories or any hazardous location to indicate whether the working conditions are safe (Green) or not safe (beeping sound of Buzzer). This is a different version of a ‘Manual Alarm’.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace LED – Red with LED – Green.
+27. LED or Motor using Slide switch
+To toggle between LED and DC Motor.
+Components: 3V Battery, LED – Red, Slide switch, DC Motor, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED - Red (N)
+(N) 3V Battery
+Slide switch (E)
+(P)  LED - Red
+DC Motor (N)
+(N) 3V Battery
+Slide switch (D)
+(P)  DC Motor
+When you move the Slide switch towards ‘E’, 3V Battery gets connected to LED – Red and it starts glowing, but Motor does not rotate. When you move the Slide switch towards ‘D’, 3V Battery gets connected to Motor and it starts rotating but LED doesn’t glow.
+Information:
+This circuit helps us to toggle between LED &amp; Motor i.e. it either makes LED glow or makes the Motor rotate. As an application, Motors are used in many places. This circuit acts like an Indicator, when Motor is off, LED – Red will be glowing to indicate ‘Stop’ mode.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect Buzzer in Parallel with LED – Red.
+28. LEDs and Buzzer connection with Latch and Momentary control
+To toggle between the LEDs and Buzzer using two switches.
+Components: 3V Battery, LED – Red, LED – Green, Buzzer, Slide switch, Tact switch and 8x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Tact switch (B)
+(P) Buzzer
+Slide switch (E)
+(P) LED – Green
+LED – Green (N)
+(N) 3V Battery
+Slide switch (D)
+(P) LED – Red
+LED – Red (N)
+(N) 3V Battery
+Slide switch (D)
+(A) Tact switch
+Buzzer (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’, LED – Green turns on. When you move the Slide switch towards ‘D’, LED – Red turns on. When Slide switch is towards ‘E’, and if you press the Tact switch, Buzzer will remain off. When Slide switch is towards ‘D’ and if you press the Tact switch, Buzzer will turn on along with LED – Red.
+Information:
+This circuit can be used as Alarm. When the situation is safe, Slide switch will be moved towards ‘E’ and LED – Green will turn on indicating safe conditions. When there is any emergency, Slide switch will be moved towards ‘D’ which will turn on LED – Red. To create audio alert, user can press the Tact switch to activate Buzzer.  Notice that, Buzzer will only turn on when the Slide switch is towards ‘D’ and Tact switch is pressed.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Remove the Tact switch and connect Buzzer directly to D of Slide switch.
+29. LEDs and Motor in Complex circuit
+To study the effect of current in a Complex circuit with LEDs &amp; DC Motor.
+Components: 3V Battery, LED – Red, LED – Green, Slide switch, DC Motor, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED – Red (N)
+(P) DC Motor
+Slide switch (E)
+(P) LED – Red
+LED – Green (N)
+(N) 3V Battery
+LED – Red (N)
+(P) LED – Green
+DC Motor (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’, the LED – Red will start glowing brightly and Motor will start rotating whereas LED – Green will be off. This is because Motor provides lesser resistance path for current than LED – Green; so most current will flow through Motor.
+Information:
+In given circuit, LED – Green is in parallel with Motor; neither of them is in Series with LED – Red. LED – Green &amp; DC Motor, together, are in Series with LED – Red.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace DC Motor with Buzzer.
+30. LEDs, Motor and Buzzer in Complex circuit
+To observe the behavior of LED, DC Motor &amp; Buzzer in a complex circuit.
+Components: 3V Battery, LED – Red, LED – Green, Tact switch, DC Motor, Buzzer, 8x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(A) Tact switch
+LED – Red (N)
+(P) LED – Green
+Tact switch (B)
+(P) LED – Red
+Buzzer (N)
+(P) DC Motor
+Tact switch (B)
+(P) Buzzer
+LED – Green (N)
+(N) 3V Battery
+LED – Red (N)
+(N) Buzzer
+DC Motor (N)
+(N) 3V Battery
+When you press the Tact switch, LED – Red will glow, Buzzer will beep and Motor will rotate but LED – Green will not glow.
+Information:
+A Complex circuit can have various combinations; the number of combinations depends on the number of components to be attached. Output in a Complex circuit depends on what is connected where. If we use more than 4 components in a Complex circuit, there can be multiple combinations &amp; output will vary for each combination.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse LED – Green.
+31. Dual speed fan
+To rotate DC Motor at two different speeds.
+Components: 3V Battery, LED – Red, Tact switch, Slide switch, DC Motor, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Tact switch (B)
+(P) DC Motor
+Slide switch (E)
+(A) Tact switch
+LED – Red (N)
+(P) DC Motor
+Slide switch (E)
+(P) LED – Red
+DC Motor (N)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’, while not pressing Tact switch, LED doesn’t glow brightly and Motor rotates slowly. This is because LED gets connected in series with Motor. When we press the Tact switch, which is in parallel to LED, it provides lesser resistance path to current then LED. Thus, LED turns off and 3V Battery gets directly connected to Motor; this allows Motor to rotate faster.
+Information:
+A LED offers more obstruction than a Switch. When LED is connected in Parallel with a wire, all the current will flow through the wire. Thus, when a LED is connected in Parallel with only a switch &amp; when switch is pressed on, all current will flow through it and LED will be off.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the LED – Red.
+32. Motor direction indicator
+To indicate the direction of rotation of DC Motor.
+Components: 3V Battery, LED – Red, LED – Green, Slide switch, DC Motor, 7x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED – Red (N)
+(N) 3V Battery
+Slide switch (E)
+(P) LED – Red
+LED – Green (P)
+(N) 3V Battery
+Slide switch (E)
+(N) LED – Green
+DC Motor (N)
+(N) 3V Battery
+Slide switch (E)
+(P) DC Motor
+When you move the Slide switch towards ‘E’, Motor will start rotating clockwise and LED –Red turns on. Reverse the Battery connections in same circuit &amp; keep Slide switch at E, the Motor rotates anti–clockwise and LED – Green turns on.
+Without changing Battery connections, in same circuit, if we move Slide switch to ‘D’ and blow Air on Fan, LED – Green will glow because Motor generates electricity from ‘N’ to ‘P’.
+Information:
+If LEDs are connected in reverse manner on two different paths, we can get indication on either LED based on direction of current, which depends on how Battery is connected.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the connections of 3V Battery in the circuit given.
+33. NOT logic gate
+To learn about Logic gates &amp; NOT logic gate.
+Components: 3V Battery, LED – Red, Tact switch, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(A) Tact switch
+3V Battery (N)
+(B) Tact switch
+3V Battery (P)
+(P) LED – Red
+3V Battery (N)
+(N) LED – Red
+The LED glows initially, even without pressing the switch. When you press the switch (give an input) the LED stops glowing (output is off) and when you release the switch or do not press the switch (do not give input) then the LED glows (output is on). This happens because when you press the switch there is a Short circuit through the switch.
+Information:
+A Logic gate is a circuit which gives a logical output. All logic gates have one or more inputs and one output. They are used to construct logic circuits (e.g. Computer).
+Logic 1 is called Logic high = 3 to 12 volts (or 5 volts in digital electronics e.g. Computers); Logic 0 is called Logic low = 0 volt. For all Logic gates, we will make a ‘Truth table’, which is a table that shows all conditions.
+When any switch is pressed, we will consider it as ‘Input given &amp; its value will be ‘1’. If switch is not pressed, then it will be considered as ‘Input not given &amp; its value will be ‘0’. When the LED, which is the output in the circuit, glows (output is on) then its value will be considered as ‘1’ and if it does not glow (output is off) then its value will be ‘0’. This circuit acts as a ‘NOT’ logic gate. It is called so, because to get the output we should NOT give an input. NOT gate is also called an ‘Inverter’ since output is opposite of input.
+Truth table
+Input (Tact switch)
+Output (LED)
+0 (Switch OFF – not pressed)
+1 (LED glowing – On)
+1 (Switch ON – pressed)
+0 (LED not glowing – Off)
+# Try the same circuit with Slide switch instead of Tact switch.
+34. Resistor connection
+To understand the function of a Resistor.
+Components: 3V Battery, LED – Red, Slide switch, Resistor 1KΩ, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Resistor (B)
+(P) LED – Red
+Slide switch (E)
+(A) Resistor
+3V Battery (N)
+(N) LED – Red
+When you move the Slide switch towards ‘E’, you will observe that the LED doesn’t glow brightly. This is because the Resistor comes in series with LED and reduces the flow of current through it. When you move the Slide switch at ‘D’, LED doesn’t glow.
+Information:
+Resistor obstructs current flowing through it and this obstruction is called Resistance. Due to obstruction, the current decreases.
+The amount of current obstructed/decreased depends upon the value of the Resistor; if the Resistor value is high then it will obstruct more current.
+The unit of resistance is ‘ohm’ and its symbol is ‘Ω’. Here we have used a Resistor of value 1 KΩ (1 Kilo Ω) which is equal to 1000 Ω; we can also call it just Resistor 1K. There are various values of Resistors available such as 100 Ω, 500 Ω, 1 KΩ, 10 KΩ, 1 MΩ etc. K stands for Kilo (1000 – 1 &amp; 3 zeroes) and M stands for Mega (1,000,000 – 1 &amp; 6 zeroes).
+Resistor is a bi-directional component which means it allows the current to flow in both directions like Tact switch.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the Resistor.
+35. The common Resistor
+To see an effect on two outputs connected in common with a Resistor.
+Components: 3V Battery, LED – Red, LED – Green, Slide switch, Resistor 1KΩ, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Resistor (B)
+(P) LED – Green
+Slide switch (D)
+(A) Resistor
+3V Battery (N)
+(N) LED – Red
+Resistor (B)
+(P) LED – Red
+3V Battery (N)
+(N) LED – Green
+When you move the Slide switch towards ‘D’, both the LEDs glow dim because the Resistor is connected commonly with both LEDs. When we move the Slide switch to ‘E’, LEDs do not glow since nothing is connected at ‘E’. We can connect any two outputs in place of two LEDs to see the effect of the Resistor.
+Information:
+The two LEDs are connected in Parallel with each other because of which current gets divided between the two but voltage across each of them remains the same. The two LEDs together are connected in Series with the Resistor. Due to less current LEDs are dim. We use such a circuit when a power supply is higher than required.
+Resistor provides fixed resistance which cannot be altered. So, the resistor which we are using provides us fixed resistance of 1KΩ.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect LED – Green to ‘E’ of Slide switch instead of ‘B’ of Resistor.
+36. Bright or dim light
+To toggle between two types of the brightness of LED.
+Components: 3V Battery, LED – Red, Slide switch, Resistor 1KΩ, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Resistor (B)
+(P) LED – Red
+Slide switch (D)
+(A) Resistor
+3V Battery (N)
+(N) LED – Red
+Slide switch (E)
+(P) LED – Red
+When you move the Slide switch towards ‘E’, LED glows brightly because there is no Resistor connected in this path with LED.  When you move the Slide switch towards ‘D’, the LED doesn’t glow brightly because the Resistor is connected in this path with LED.
+Information:
+Resistors have colourful rings printed on them which are called colour codes. They are used to determine the value of resistance. We can use colour code table to find the value of any Resistor. You can also find value of any Resistor by using ‘Ohm–meter’ or ‘Multi–meter’.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace LED – Red with LED – Green.
+3
+Create a circuit with two LEDs. When Slide switch is towards ‘E’, LED – Green will glow bright and when Slide switch is towards ‘D’, LED – Red will glow dim.
+37. Bright or dim light with Momentary control
+To toggle between two types of the brightness of LED using Tact switch.
+Components: 3V Battery, LED – Red, Tact switch, Resistor 1KΩ, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(A) Tact switch
+3V Battery (P)
+(A) Resistor
+Tact switch (B)
+(P) LED – Red
+Resistor (B)
+(P) LED – Red
+LED – Red (N)
+(N) 3V Battery
+When Tact switch is not pressed, the LED would glow dim, since the current passes through the resistor. When Tact switch is pressed, it creates a short circuit across the resistor and current passes through the Tact switch without any obstruction. Thus, LED would glow brighter.
+Information:
+The brightness of LED can be changed either with the help of Tact switch or Slide switch using a Resistor. In case of Tact switch when we press, LED – Red will glow bright and when Tact switch is not pressed, LED – Red will glow dim. However, reverse is not possible.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Make both LEDs glow bright and dim together.
+38. Various modes of LED
+To control the operation of LED with the help of Switches.
+Components: 3V Battery, LED – Red, Tact switch, Slide switch, Resistor 1KΩ, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Resistor (B)
+(P) LED – Red
+Slide switch (D)
+(A) Resistor
+Tact switch (B)
+(P) LED – Red
+Slide switch (D)
+(A) Tact switch
+3V Battery (N)
+(N) LED – Red
+When the Slide switch is towards ‘E’, LED would turn off since nothing is connected to ‘E’. When Slide switch is towards ‘D’ and Tact switch is pressed, LED will turn on.
+When Slide switch is towards ‘D’ and Tact switch is not pressed, LED will be dim since current passes through the resistor.
+Information:
+This circuit is used to get various modes of operation of LED. The circuit can provide us three modes of operation.
+We can turn off the LED.
+We can make the LED glow dim.
+We can turn on the LED (LED glows brightly).
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect LED – Green in parallel with LED – Red.
+39. Vary light intensity – I
+To study the working of Trim–pot and control the brightness of LED.
+Components: 3V Battery, LED – Red, Slide switch, Trim–pot, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+LED – Red (N)
+(C) Trim–pot
+Slide switch (D)
+(P) LED – Red
+Trim–pot (E)
+(N) 3V Battery
+When you move the Slide switch towards ‘E’ nothing will happen. Move the Slide switch towards ‘D’. When we turn the central white section of Trim–pot towards ‘E’ (use screwdriver) resistance will decrease and brightness of LED will increase. As we move the screw of Trim–pot towards ‘D’ resistance will increase and brightness of LED will decrease.
+Information:
+There are two types of Resistors. One is fixed Resistor which offers fixed Resistance all the time and other is a variable Resistor whose resistance can be varied.  Trim–pot is a variable Resistor. Such Resistor is also called as a Regulator because they regulate (control) the output. In most variable Resistors, we have to turn the head/knob to vary the resistance.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Create a circuit to increase the brightness when rotated towards ‘D’ and decrease the brightness when rotated towards ‘E’.
+40. Vary light intensity – II
+To vary the brightness of LED like a swing.
+Components: 3V Battery, LED – Red, Slide switch, Trim–pot, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Trim–pot (D)
+(E) Trim–pot
+Slide switch (E)
+(P) LED – Red
+Trim–pot (E)
+(N) 3V Battery
+LED – Red (N)
+(C) Trim–pot
+Move the Slide switch towards ‘E’. When you turn the Trim–pot to the centre then LED will not glow bright. This is because in this connection Trim–pot provides maximum resistance at the centre. When you turn the Trim–pot to ‘D’ or ‘E’ from centre, the brightness of LED will increase on each side. This is just like a swing: High–low–high.
+Information:
+Trim–pot is a 3–terminal component.  The middle terminal is called wiper or screw which is used to vary (control) the resistance. We use screwdriver to rotate the screw or we can have a knob (head). Other two terminals are fixed terminals. Notations of C, D &amp; E are only given for understanding purposes.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect LED – Green in place of LED – Red.
+3
+Remove connection between (E) &amp; (D) of Trim–pot.
+41. Vary fan speed – I
+To control the speed of DC Motor and study the effect of Trim–pot.
+Components: 3V Battery, Slide switch, DC Motor, Trim–pot, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+DC Motor (N)
+(C) Trim–pot
+Slide switch (E)
+(P) DC Motor
+Trim–pot (E)
+(N) 3V Battery
+Set the Trim–pot at its centre and move the Slide switch towards ‘E’. The Motor will not rotate because Trim–pot provides high resistance at this position. When Trim–pot is rotated towards ‘E’, resistance decreases and Motor rotates after a certain point. When Trim–pot is rotated towards ‘D’, resistance increases and Motor stops rotating.
+Information:
+Since we have made connection at ‘C’ &amp; ‘E’ of Trim–pot, resistance will be lowest at ‘E’&amp; highest at ‘D’. It will be vice–versa if we made connections at ‘C’ &amp; ‘D’. In either case, resistance will be nearly half of the maximum value when knob of Regulator is at centre.
+This circuit can be used for controlling the speed of the fan. As we rotate the Trim–pot, the speed of the fan varies.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect (N) of 3V Battery to (D) of Trim-pot instead of (E).
+42. Vary sound volume
+To vary the volume of sound from Buzzer using a Trim–pot.
+Components: 3V Battery, Slide switch, Buzzer, Trim–pot, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Trim–pot (E)
+(P) Buzzer
+Slide switch (E)
+(C) Trim–pot
+Buzzer (N)
+(N) 3V Battery
+Set the Trim–pot at its centre and move the Slide switch towards ‘E’. The Buzzer will not beep because Trim–pot provides high resistance at this position. When Trim–pot is rotated towards ‘E’, resistance decreases and Buzzer starts beeping after a certain point. When Trim–pot is rotated towards ‘D’, resistance increases and sound stops.
+Information:
+Since we have made connection at ‘C’ &amp; ‘E’ of Trim–pot, resistance will be lowest at ‘E’ &amp; highest at ‘D’. It will be vice–versa if we made connections at ‘C’ &amp; ‘D’. In either case, resistance will be nearly half of maximum value when Trim–pot is at centre.
+This circuit is like a volume–control Regulator. As we rotate the Trim–pot, the volume varies to high or low.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Reverse the connections of Buzzer.
+3
+Connect (N) of 3V Battery to (D) of Trim–pot &amp; keep (N) of Buzzer same as shown in diagram.
+43. Red or Green using Trim–pot
+To toggle between LED – Red and LED – Green without a switch.
+Components: 3V Battery, LED – Red, LED – Green, Trim–pot, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Trim–pot
+LED - Red (N)
+(N) 3V Battery
+Trim–pot (E)
+(P)  LED - Red
+LED - Green (N)
+(N) 3V Battery
+Trim–pot (D)
+(P)  LED - Green
+When the screw of Trim–pot is set at its centre then LEDs will not glow brightly. When screw is rotated towards ‘E’, LED – Red glows brightly and LED – Green turns off. When screw is rotated towards ‘D’, LED – Red turns off and LED – Green glows brightly.
+Information:
+When we connect two different outputs at the fixed terminals of Trim–pot, we can get variation in both; it also acts as a toggling circuit. Since we have made connection as shown in diagram, highest resistance will be when screw of Trim–pot is at centre.
+When we rotate screw towards ‘E’, resistance between ‘C’ &amp; ‘E’ of Trim–pot is lowest hence LED – Red glows brightest; when we turn screw of Trim–pot towards ‘D’, resistance between ‘C ’&amp; ‘D’ of Trim–pot is lowest hence LED – Green glows brightest.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace Trim-pot with Regulator.
+44. LED or other using Trim–pot
+To toggle between LED – Red and other output without a Switch.
+Components: 3V Battery, LED – Red, DC Motor, Trim–pot, Slide switch, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Slide switch
+Trim–pot (D)
+(P)  DC Motor
+Slide switch (E)
+(C) Trim–pot
+LED - Red (N)
+(N) 3V Battery
+Trim–pot (E)
+(P)  LED - Red
+DC Motor (N)
+(N) 3V Battery
+When the screw of Trim–pot is set at its centre then LED will not glow and Motor will not rotate. When screw is rotated towards ‘E’, LED – Red glows brightly and Motor remains off. When screw is rotated towards ‘D’, LED – Red turns off and Motor starts rotating.
+Information:
+According to the given connections, highest resistance will be when screw of Trim–pot is at centre, which acts as the ‘Off’ position. When we connect two different outputs at the fixed terminals of Trim–pot, we can get variation in both; it also acts as a toggling circuit.
+When we rotate screw towards ‘E’, resistance between ‘C’ &amp; ‘E’ of Trim–pot is lowest hence LED – Red glows brightest; when we turn screw of Trim–pot towards ‘D’, resistance between ‘C’ &amp; ‘D’ of Trim–pot is lowest hence DC Motor starts &amp; fan rotates.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace DC Motor with Buzzer in given diagram.
+45. LED &amp; other in Complex circuit with Trim–pot
+To vary the speed of a DC Motor and brightness of LED.
+Components: 3V Battery, LED – Red, LED – Green, DC Motor, Trim–pot, 6x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+From
+To
+3V Battery (P)
+(C) Trim–pot
+DC Motor (N)
+(P) LED - Green
+Trim–pot (D)
+(P) DC Motor
+LED - Red (N)
+(N) 3V Battery
+DC Motor (N)
+(P) LED - Red
+LED – Green (N)
+(N) 3V Battery
+When the screw of Trim–pot is at the centre, the LED will not glow and Motor will not start.
+As we move the screw of Trim–pot towards ‘D’, resistance in the path decreases and the LEDs start glowing slowly; the Motor also starts after a certain point. When the screw of Trim–pot is at ‘D’ completely, then the LEDs are brightest &amp; Motor rotates at a good speed since resistance at this point will be the lowest.
+If we move the screw of Trim–pot towards ‘E’, resistance in the path increases because of which LEDs &amp; Motor will be off.
+Information:
+The given observations in connection are seen when we use a new 3V Battery or a higher value of Battery. If we use an old (or used) 3V Battery, then the LED will give same output, but Motor will be off always. Thus, such experiments with Resistors are dependent on the power supply (or Battery used).
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Interchange positions of LED – Red &amp; DC Motor in above diagram.
+46. Motor as Generator
+To learn the function of a DC Motor as a Generator of Electricity.
+Components: LED – Red, DC Motor, 2x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+DC Motor (P)
+(N) LED – Red
+DC Motor (N)
+(P) LED – Red
+Check if the propeller/fan is fitted on the Motor. Blow air with full force on the fan such that it rotates at high speed. Motor rotates in anti–clockwise direction when you blow air on the fan because of the shape of the blades/wings of the fan. You will observe that the LED glows. You can try the same with LED – Green.
+Information:
+How does the LED glow even when Battery is not connected? It is because Motor also works as a Generator of Electricity (similar to a Battery) if we rotate it mechanically. But please note that the Motor does not store electricity like the Battery. When you blow more air, DC Motor rotates faster and generates more voltage. DC Motor generates Direct Current.
+This concept is used in generation of electricity by windmills. Here, we generate electricity by blowing air into propellers; in windmill, propellers rotate because of the wind.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Remove the propeller and try to rotate the shaft with your hand clockwise and anti-clockwise.
+47. Blow to turn ON two outputs
+To use a DC Motor as Generator and turn on two outputs connected in Parallel.
+Components: DC Motor, LED – Red, LED – Green, 4x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+DC Motor (P)
+(N) LED – Red
+DC Motor (P)
+(N) LED – Green
+DC Motor (N)
+(P) LED – Green
+DC Motor (N)
+(P) LED – Red
+Check if the propeller fan is fitted on the Motor. Blow air with full force on the fan such that it rotates at high speed. Motor rotates in anti-clockwise direction when you blow air on the fan because of the shape of the blades/wings of the fan. You will observe that the LEDs glow only when greater effort is put in blowing the fan.
+Information:
+When two outputs are connected in Parallel, they will require more current as it will be divided between the outputs. Two outputs will obviously require more effort in generating electricity from Motor in comparison to only one output connected.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Connect the LEDs in Series instead of Parallel.
+48. Blow to turn OFF light
+To generate reverse current to turn off LED.
+Components: 3V Battery, LED – Green, DC Motor, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(N) DC Motor
+DC Motor (P)
+(P) LED – Green
+3V Battery (N)
+(N) LED – Green
+As soon you connect the circuit the LED starts glowing &amp;Motor rotates slowly. If you blow air softly on the propeller, the propeller will rotate in opposite direction &amp; the LED brightness will decrease. If you blow air harder on the fan, then the LED stops glowing for few seconds or until you stop blowing harder on the fan.
+Information:
+Reverse current in a circuit flow in opposite direction of the current from a Battery. It is an obstruction to the flow of current from a Battery in a circuit.
+It can reduce the intensity of the output. It is not a good idea to generate such reverse electricity in any circuit. This also reduces over all voltage.
+When there are currents in opposite direction, they get subtracted. Current will flow in the direction in which the value of current is higher. Current subtraction, due to reverse electricity, happens in circuits that have at least two sources of electricity.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace Battery with USB.
+49. Blow to increase the light – I
+To generate additional electricity to increase brightness of LED.
+Components: 3V Battery, LED – Green, DC Motor, 3x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) DC Motor
+DC Motor (N)
+(P) LED – Green
+3V Battery (N)
+(N) LED – Green
+Initially LED – Green will not glow brightly and Motor will also rotate slowly. As we blow air on the blades of propeller fan, LED – Green will start glowing brighter. This is because Motor will generate electricity which adds to the current from the Battery.
+Information:
+When there are currents in same direction, they get added. Current addition happens in circuits that have at least two sources of electricity. Both the sources must generate same type of current i.e. DC current.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace Battery with USB.
+50. Toggle between LEDs using DC Motor
+To toggle between LED – Red and LED – Green using DC Motor.
+Components: 3V Battery, LED – Red, LED – Green, DC Motor, 5x jump wires.
+Circuit Diagram:
+Circuit Diagram:
+Connection: Connect a jump wire–
+From
+To
+3V Battery (P)
+(P) LED – Red
+LED – Red (N)
+(N) DC Motor
+LED – Red (N)
+(P) LED – Green
+LED – Green (N)
+(N) 3V Battery
+DC Motor (P)
+(N) 3V Battery
+As soon as the circuit is connected, the LED – Red starts glowing and Motor rotates slowly anti–clockwise; or sometimes does not rotate. If you blow air on the propeller fan, the propeller fan will continue to rotate anti–clockwise and the Motor generates reverse voltage. This reverse voltage will decrease the brightness of LED – Red and the LED – Green starts glowing. The LED – Green glows till you blow air on the propeller fan.
+Information:
+The current generated from DC Motor flows from N of Motor to N of LED – Red as well to P of LED – Green. LED – Red turns off since current from Motor is opposite to current from Battery and they subtract each other. LED – Green turns on due to current from Motor.
+This circuit can be used as fast wind indicator in areas affected by storms. Whenever there are fast winds, one LED will turn on and other will turn off, indicating dangerous winds.
+Sr.
+Tinkering: Circuit condition
+Note
+1
+Connect circuit as shown.
+2
+Replace LED – Red with Buzzer.
+Model chart
+Model chart
+Application description
+A1. Metal detector (Based on Exp 2)
+Problem statement: There is a lot of scrap at your home and you have called a scrap collector. The scrap collector has asked you to keep the metals aside. Design a Metal detector with LED such that when the open end of wires touch on the surface of metal, LED – Red will glow. If the object is non-metal, then LED – Red will be off.
+A2. Torch (Based on Exp 8)
+Problem statement: It’s a dark night and there is no electricity in the camp. Design a torch with momentary control to help you move around &amp; search things.
+Extra materials: Any cylindrical object like a soft drink bottle, or container boxes etc.
+A3. Electronic toy gun (Based on Exp 12)
+Problem statement: You saw a game on your TV where a player had a gun that he used to protect himself from zombies. The gun had both sound and light which can kill zombies. Create such a gun and play with your friends.
+A4. Wheel of knowledge (Based on Exp 15)
+Problem statement: You are having school classes online and quizzes can become boring at times. To make it interesting, create a wheel of knowledge, which is made using a DC Motor with Momentary control. Whenever Motor stops, the pointer points to a section on wheel and the teacher can either share info about it or ask questions on it.
+Extra materials: Cardboard or paper.
+A5. Guide the ball (Based on Exp 15)
+Problem statement: Your school has planned for fun-fair and you have participated in games section. Prepare a game to guide the ball on a curvy path with obstacles. The paper balls need to be maneuvered with the help of DC Motor with Momentary control.
+Extra materials: Paper/ thermocol balls, cardboard to create track.
+A6. Model of humanoid (Based on Exp 17&amp; 19)
+Problem statement: You got a new showcase in living room and you’re filling it up with antiques. Since you’re fond of robots, design a model of humanoid where the LEDs act as eyes and Buzzer as nose. Control the LEDs and Buzzer with Slide switch.
+A7. Electronic pet (Based on Exp 17 &amp; 19)
+Problem statement: You are on a vacation with your friends and pets are not allowed. You are missing your pet. Create an electronic pet using LEDs as eyes and Buzzer for sound. Provide latch control to all the components using Slide switch.
+A8. Water level indicator (Based on Exp 21)
+Problem statement: The water tank on the terrace of your building overflows everyday wasting lot of water. Design a water level indicator with LED such that when the tank is about to get full, LED will turn on and the manager can stop the pump.
+A9. Traffic light (Based on Exp 25)
+Problem statement: Due to the renovation of a road, the power to traffic light controller is cut. There is lot of traffic on road now. Help the police to control the traffic by designing a traffic light with Battery, LED – Red and Led – Green. LED – Red will instruct the drivers to stop crossing the signal and LED – Green will instruct the drivers to pass the signal. Policeman will control the LEDs using one switch only.
+A10. Quiz game judge (Based on Exp 25)
+Problem statement: Your school has announced quiz competition and there is a rapid-fire round. Once you answer the question, the judge will indicate if it’s right or wrong using LEDs. If it’s right LED – Green will be on and if it is wrong, then LED – Red will be on. This will be controlled with single Slide switch.
+A11. Dual Alarm (Based on Exp 28)
+Problem statement: You are on a ship taking a voyage across the world. The captain of ship needs you to make an alarm system which will show green light when everything is perfect, and when things are not perfect it will show red light. And when situation becomes worse when the ship is on red light, he will press the tact switch for a sound alert so that everyone on ship gathers on the deck for safety.
+A12. Road barricade (Based to Exp 35 &amp; 36)
+Problem statement: The police require a road barricade many times to regulate the traffic or for checking vehicles at a checkpoint. Create a barricade with LEDs on it with dual intensity selection.
+A13. Dual intensity headlight (Based on Exp 35 &amp; 36)
+Problem statement: While driving car on highway in dark, you need bright headlights but when you drive during evening on city roads, you need dim headlights. Design headlights with 2 types of intensity for your car, so you can toggle between bright &amp; dim mode.
+A14. Airplane model (Based on Exp 45)
+Problem statement: You and your cousins are planning for an international tour. Many of your younger cousins haven’t seen an airplane. Design an airplane model with DC Motor in the front and LEDs acting as jet engines. Slide switch will be used as tail and will control the operation of DC Motor and LEDs.
+A15. Blow off the candles (Based on Exp 48)
+Problem statement: It’s your best friend’s birthday and you forgot to get candles for cake. Create a circuit where LED will act as candle. When your friend blows on DC Motor, the LED must turn off indicating the candle is blown and it’s time to cheer.
+A16. Storm alert (Based on Exp 50)
+Problem statement: Weather department is planning to install a storm alert mechanism. Help them by designing the project by using DC Motor and LED. Whenever there are strong winds, DC Motor will rotate faster and LED – Red will glow, indicating storm alert. Whenever there is normal wind flow, DC motor will rotate slowly and LED – Green will glow.
+Project description
+P1. Disco light (Based on Exp 1)
+Problem statement: It’s your birthday and you have invited all your friends for birthday party. Add a tri-color LED with USB or battery to create disco light effect which will create a colorful experience when everyone dances.
+P2. Miner’s helmet (Based on Exp 8)
+Problem statement: A team of miners find working in a coal mine difficult due to low light. Design a helmet for them with LED on it to give them more light while working. The switch will be placed inside the cap such that when they wear the cap, switch will be pressed, and LED turns on. When they remove the cap, the switch will be released, and LED will be off automatically.
+P3. Doorbell (Based on Exp 11)
+Problem statement: Your cousin has built a model of a house using cardboard. He needs your help to incorporate the doorbell facility such that when he presses the switch, the buzzer produces the sound.
+P4. Footbell (Based on Exp 11)
+Problem statement: You family is redesigning your home, and they need a new type of house bell. Redesign the traditional doorbell into a Footbell, with a switch under the door mat such that when someone stands on it the switch gets pressed and Buzzer turns on.
+P5. Portable hand fan (Based on Exp 15)
+Problem statement: You have your summer vacation, and you are travelling by train. It’s too hot to travel. Design a portable hand-held fan with Momentary control to help you fight the heat wherever you go.
+P6. Electronic rotating dice (Based on Exp 15)
+Problem statement: Everyone is ready to play with snakes and ladders, but you can’t find the dice. Create a rotating dice using DC Motor with momentary control such that the DC Motor stops on any random number from 1 to 6. You can play other games using this dice.
+Extra materials: Cardboard or paper.
+P7. Hypnotizing wheel (Based on Exp 15)
+Problem statement: You went to magic show and saw that the magician used a hypnotizing trick. Create your own magic trick with a hypnotizing wheel which has a spiral pattern on it, using DC Motor with Momentary control for rotation.
+Extra materials: Paper or cardboard.
+P8. Operation theatre light (Based on Exp 19)
+Problem statement: You have a fancy-dress competition in your school, and you have decided to be a doctor. You must design an operation theatre where you will be conducting operation on patients. When the operation is going on, LED – Red will be on and when you are done with operation LED – Red will be off.
+P9. Electronic lantern (Based on Exp 19)
+Problem statement: There is a power cut at your home, and you must submit an assignment tomorrow in your school. Design a battery-operated lantern with Latch control that can help you to complete your work.
+P10. Model of house (Based on Exp 17 &amp; 20)
+Problem statement: Your school teacher has asked everyone to create different types of shelters for humans. Design a model of house which has DC Motor as fan with Latch control, Buzzer as doorbell and LED as tube-light. Light &amp; Fan can be used in toggle mode.
+Extra materials: Cardboard box, color papers etc.
+P11. Vacuum cleaner (Based on Exp 22)
+Problem statement: You need to clean your room. There are many bits of paper lying on the floor. Create a vacuum cleaner with DC Motor and Slide switch such that when the cleaner is kept close to paper, it gets sucked by motor.
+Extra materials: Use plastic bottles to create the structure. Place the DC Motor towards the mouth of the bottle.
+P12. Hand mixer (Based on Exp 22)
+Problem statement: It is a sunny day, and you have some unexpected guests coming up. Prepare a lemonade maker using DC Motor with latch control to mix the ingredients well.
+P13. Cap with fan (Based on Exp 22)
+Problem statement: Your school has organized a summer field trip to a village where you will be taught about farming. It’s difficult to work in field during summer due to hot climate. Design a cap for yourself with DC Motor on it. Use a Slide switch to turn it on/off.
+P14. Audio–visual alarm (Based on Exp 26)
+Problem statement: In a textile factory, there are visually impaired people working with others. They need a safety alarm that can produce sound (audio) alert during an emergency. When everything is normal, LED – Green will be on and during an emergency, LED – Red and Buzzer turns on. This should be controlled by a single Slide switch.
+P15. Merry-go-round (Based on Exp 27)
+Problem statement: There is an event in your local park and lot of people are going to gather there. You have been given all the equipment to assemble Merry-go-round for the kids. The Merry-go-round will start spinning only when the main switch is turned on. The green light stays on when the Merry-go-round spins. When the switch is turned off, the Merry-go-round stops and red light turns on.
+P16. Refrigerator fan and light (Based on Exp 31)
+Problem statement: Electronic appliances manufacturer is looking to upgrade the existing refrigerators but adding a unique feature. When user opens the door, switch will be released, LED will glow dim and fan will rotate slower which will stop the cooling process and when user closes the door, switch will get pressed and LED turns off and DC Motor rotates faster which would turn on the cooling process.
+P17. Refrigerator door (Based on Exp 33)
+Problem statement: A luxury car has a small refrigerator inside it. Sometimes door is left open and all the cold drinks become warm. To prevent this, design a mechanism such that when door is opened, the switch will be unpressed and LED will glow. When door is closed, the switch will be pressed, and LED will turn off.
+P18. Patient indicator (Based on Exp 33)
+Problem statement: A Doctor’s clinic needs an indicator for the patients waiting in queue for their check-up. When a green light and Buzzer is on, the next patient can walk in to doctor’s cabin. As soon as the patient sits on the chair, the green light and the Buzzer turn off thus indicating the doctor is busy.
+P19. Multi-mode hanging lamp (Based on Exp 36)
+Problem statement: A restaurant is looking to add some lighting effects for the diners. They need to add a hanging lamp to the ceiling. The lamp should be able to give out dim light or bright light whenever required. It has to be done using a single switch.
+P20. Light regulator (Based on Exp 39)
+Problem statement: You got a new study table with LED lamp. The lamp is very bright, and you are having trouble reading the book. Modify the Lamp with a regulator which can help you to change the brightness of LED when you rotate the knob.
+Extra materials: Any boxes or plastic containers.
+P21. Regulated floor fan (Based on Exp 41)
+Problem statement: Your friends are planning for a camp and you must design a Fan which can be used during travelling. The fan must have Latch control and a Regulator to change the speed of DC Motor.
+P22. Volume controller (Based on Exp 42)
+Problem statement: You have been assigned as a DJ for your school party. The music system needs an upgrade to control the volume of the speaker using a knob. You can rotate the knob to increase or decrease the volume. The speaker must also have a main switch to control it.
+P23. Wind energy generation (Windmill) (Based on Exp 46)
+Problem statement: Your science teacher has given you an assignment for creating a working model on renewable sources of energy. Create a model which shows generation of electricity using wind energy.
+P24. Dynamo with wind energy (Based on Exp 46)
+Problem statement: Your friend wants to install dynamo lights in his cycle, but he doesn’t have a dynamo with him. Design a wind-based dynamo using DC Motor which would be kept on the front handle of the cycle. When the cycle is moving, DC Motor will rotate with the help of wind and generate electricity which can be used to turn on the LED.

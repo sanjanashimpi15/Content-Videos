@@ -1,0 +1,21 @@
+{
+  "name": "exp06-leds-in-parallel",
+  "version": "1.0.0",
+  "description": "Remotion video for Exp06_LEDs_in_Parallel",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render Exp06LEDsInParallel renders/final/Exp06LEDsInParallel.mp4",
+    "preview": "remotion render Exp06LEDsInParallel renders/preview/Exp06LEDsInParallel_preview.mp4 --frames=0-300",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}

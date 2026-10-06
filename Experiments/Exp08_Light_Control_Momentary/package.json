@@ -1,0 +1,21 @@
+{
+  "name": "exp08-light-control-momentary",
+  "version": "1.0.0",
+  "description": "Remotion video for Exp08_Light_Control_Momentary",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render Exp08LightControlMomentary renders/final/Exp08LightControlMomentary.mp4",
+    "preview": "remotion render Exp08LightControlMomentary renders/preview/Exp08LightControlMomentary_preview.mp4 --frames=0-300",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}

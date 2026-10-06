@@ -1,0 +1,42 @@
+{
+  "scene-01": {
+    "durationSec": 11.66,
+    "durationFrames": 386
+  },
+  "scene-02": {
+    "durationSec": 9.34,
+    "durationFrames": 317
+  },
+  "scene-03": {
+    "durationSec": 9.94,
+    "durationFrames": 335
+  },
+  "scene-04": {
+    "durationSec": 14.9,
+    "durationFrames": 484
+  },
+  "scene-05": {
+    "durationSec": 8.38,
+    "durationFrames": 288
+  },
+  "scene-06": {
+    "durationSec": 12.58,
+    "durationFrames": 414
+  },
+  "scene-07": {
+    "durationSec": 11.52,
+    "durationFrames": 382
+  },
+  "scene-08": {
+    "durationSec": 13.22,
+    "durationFrames": 433
+  },
+  "scene-09": {
+    "durationSec": 16.75,
+    "durationFrames": 539
+  },
+  "scene-10": {
+    "durationSec": 12.14,
+    "durationFrames": 401
+  }
+}

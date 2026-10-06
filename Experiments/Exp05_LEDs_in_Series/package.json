@@ -1,0 +1,21 @@
+{
+  "name": "exp05-leds-in-series",
+  "version": "1.0.0",
+  "description": "Remotion video for Exp05_LEDs_in_Series",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render Exp05LEDsInSeries renders/final/Exp05LEDsInSeries.mp4",
+    "preview": "remotion render Exp05LEDsInSeries renders/preview/Exp05LEDsInSeries_preview.mp4 --frames=0-300",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "remotion": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}

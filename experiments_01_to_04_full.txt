@@ -1,0 +1,650 @@
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] Experiments
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 01. LED – Red connection
+[P] 
+[P] 
+[P] 
+[P] To glow a Red LED & understand how a LED works.
+[P] 
+[P] 
+[P] 
+[P] Components: 3V Battery, LED – Red, 2x jump wires.
+[P] 
+[P] 136995135302200-76427244739
+[P] 
+[P] Circuit Diagram:00
+[P] 
+[P] 
+[P] Circuit Diagram:
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] Connection: Connect a jump wire–
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] From |  |  |  | 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] To
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (P) LED – Red
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (N) LED – Red
+[P] 
+[P] 
+[P] 
+[P] 
+[P] You will observe that the LED starts glowing as soon as you complete the connection. It will continue to glow until Battery drains out (becomes empty i.e. zero volt) or any jump wire is removed. So, remove jump wire to save electricity.
+[P] 
+[P] 
+[P] 
+[P] Information:
+[P] 
+[P] 
+[P] A Battery is a source of electricity, an energy source (power supply). It provides voltage and current in the circuit. 3V stands for 3 volts. Without the Battery or any other source of electricity the circuit will not work.
+[P] 
+[P] 
+[P] 
+[P] 
+[P] LED stands for Light Emitting Diode. It is as an output device which 
+[P] emits (throws out / releases)
+[P]  light. Output means giving out or producing something. LED consumes the electrical energy and converts it into Light energy. 
+[P] Thus
+[P]  conversion of energy takes place.
+[P] 
+[P] 
+[P] 
+[P] 
+[P] LED only allows the current to flow from anode to cathode. Such components which allow current to flow in only one direction are 
+[P] called as
+[P]  
+[P] uni
+[P] -directional components.
+[P] 
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] Sr. |  |  | 
+[P] 
+[P] Tinkering: Circuit condition |  |  | 
+[P] 
+[P] Note
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 1 |  |  | 
+[P] 
+[P] Connect circuit as shown. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 2 |  |  | 
+[P] 
+[P] Reverse the LED. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 02. Continuity tester
+[P] 
+[P] 
+[P] 
+[P] To check if there is continuity between two points & learn about open circuit.
+[P] 
+[P] 
+[P] 
+[P] Components: 3V Battery, LED – Red, 3x jump wires, 2x 1–strand wires.
+[P] 
+[P] 
+[P] 
+[P] 195838420574000-6823981886
+[P] 
+[P] Circuit Diagram:00
+[P] 
+[P] 
+[P] Circuit Diagram:
+[P] 
+[P] 
+[P] 
+[P] Connection: Connect a jump wire–
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] From |  |  |  | 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] To
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (P) LED – Red
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] 1–strand wires
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] LED – Red (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] 1–strand wires
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] Now you will have 2 open ends (open terminals) of 1–strand wires. When you do not touch the open ends anywhere, LED does not glow. It is because it is an open circuit and electricity doesn’t flow through the air. But when you touch the open ends to each other, the LED will glow because it becomes a close circuit & electricity flow through it.
+[P] 
+[P] 
+[P] 
+[P] 
+[P] Now place the open ends on piece of paper. The LED doesn’t glow since paper is a bad conductor (insulator). When you place the open ends on any metal, the LED glows since metals are good conductor and allows current to flow through them.
+[P] 
+[P] 
+[P] 
+[P] Information: 
+[P] 
+[P] 
+[P] An open circuit is a circuit in which one of the jump wires is not connected to any part in the circuit. Also, if a wire is not connected to the positive or negative pole of the Battery in a circuit, then the circuit will not work.
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] Sr. |  |  | 
+[P] 
+[P] Tinkering: Circuit condition |  |  | 
+[P] 
+[P] Note
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 1 |  |  | 
+[P] 
+[P] Connect circuit as shown & touch open terminals to each other. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 2 |  |  | 
+[P] 
+[P] Touch open terminals on steel ring. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 3 |  |  | 
+[P] 
+[P] Touch open terminals on plastic box. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 03. Short circuit
+[P] 
+[P] 
+[P] 
+[P] To learn the effect of a short circuit.
+[P] 
+[P] 
+[P] 
+[P] Components: 3V Battery, LED – Red, 3x jump wires.
+[P] 
+[P] 
+[P] 
+[P] 1497965215502-6823994900
+[P] 
+[P] Circuit Diagram:00
+[P] 
+[P] 
+[P] Circuit Diagram:
+[P] 
+[P] 
+[P] 
+[P] Connection: Connect a jump wire–
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] From |  |  |  | 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] To
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (P) LED – Red
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (N) LED – Red
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] LED – Red (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (N) LED – Red
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] The LED does not glow because there is a short circuit (direct path) between the positive pole (P) & negative pole (N) of 3V Battery.
+[P] 
+[P] 
+[P] Warning: Do not keep this circuit connected for long time or else Battery will heat up.
+[P] 
+[P] 
+[P] 
+[P] 
+[P] If we compare with Expt. 1, then we are connecting an extra jump wire in parallel to LED – Red. If we compare to Expt. 6, in place of LED – Green, we are connecting a jump wire.
+[P] 
+[P] 
+[P] Do we see any change in output?
+[P] 
+[P] 
+[P] 
+[P] Information: 
+[P] 
+[P] 
+[P] In a short circuit there is a direct passage/path between the positive pole & negative pole of the power source of that circuit; thereby all the current flows through that path since there is no obstruction. This is very dangerous as a lot of heat is generated due to passing of all current in such a way, which may result in fire. This can happen at home.
+[P] 
+[P] 
+[P] 
+[P] 
+[P] There is no fire generated in this experiment & kit because we use a power source with low current & voltage; but a chemical will leak if we short circuit 3V Battery for long time.
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] Sr. |  |  | 
+[P] 
+[P] Tinkering: Circuit condition |  |  | 
+[P] 
+[P] Note
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 1 |  |  | 
+[P] 
+[P] Connect circuit as shown. |  |  | 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 2 |  |  | 
+[P] 
+[P] Disconnect the short circuit wire after 20 seconds. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 04. A Fuse in a circuit
+[P] 
+[P] 
+[P] 
+[P] To understand the working of a fuse.
+[P] 
+[P] 
+[P] 
+[P] Components: 3V Battery, LED – Red, 3x jump wires, Pencil lead (0.5 ~ 1mm).
+[P] 
+[P] -81886196850
+[P] 
+[P] Circuit Diagram:00
+[P] 
+[P] 
+[P] Circuit Diagram:
+[P] 
+[P] 1260674203200
+[P] 
+[P] 
+[P] 
+[P] Connection: Connect a jump wire–
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] From |  |  |  | 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] To
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] pencil lead
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] LED – Red (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] pencil lead
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (N) LED – Red
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] Insert a pencil lead between the open terminals of these two jump wires (as shown in the diagram). 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] In this experiment pencil lead acts like a fuse, allowing current to pass through it. When it is broken, it becomes open circuit and hence no current passes further.
+[P] 
+[P] 
+[P] 
+[P] Information: 
+[P] 
+[P] 
+[P] Sometimes the voltage or current supplied by the power source increases due to some fluctuation (a kind of fault); because of this the power consumed by appliances increases which can cause damage to it (sometimes even Fire). The ‘Fuse’ is an electrical part that is connected before any output i.e. in the initial path of the circuit to protect the components from damage. 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] There is a filament of conducting material used inside a fuse. It melts whenever current increases. When it melts it breaks the connection (making an open circuit) and hence no electricity passes further. The material used for filament in a fuse is zinc, copper, silver, 
+[P] aluminium
+[P]  or alloys.
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] Sr. |  |  | 
+[P] 
+[P] Tinkering: Circuit condition |  |  | 
+[P] 
+[P] Note
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 1 |  |  | 
+[P] 
+[P] Break the pencil lead. |  |  | 
+[P] 
+[P] 
+[TR] 
+[TR] 
+[TR]  |  |  | 
+[P] 
+[P] 2 |  |  | 
+[P] 
+[P] Try with 1–strand wire in place of pencil lead. |  |  | 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 
+[P] 05. LEDs in Series
+[P] 
+[P] 
+[P] 
+[P] To see the effect on 2 LEDs connected one after another & learn about Series circuit.
+[P] 
+[P] 
+[P] 
+[P] Components: 3V Battery, LED – Red, LED – Green, 3x jump wires.
+[P] 
+[P] 1579643308971-81887196850
+[P] 
+[P] Circuit Diagram:00
+[P] 
+[P] 
+[P] Circuit Diagram:
+[P] 
+[P] 
+[P] 
+[P] Connection: Connect a jump wire –
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] From |  |  |  | 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] To
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (P) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (P) LED – Red
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] LED – Red (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
+[P] (P) LED – Green
+[TR] 
+[TR] 
+[TR]  |  |  |  | 
+[P] 
+[P] 3V Battery (N) |  |  |  | 
+[P] 
+[P] 
+[P]  |  |  |  | 
+[P] 
