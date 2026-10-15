@@ -1,0 +1,24 @@
+{
+  "name": "epod-3v-battery-insertion",
+  "version": "1.0.0",
+  "description": "Remotion educational video: How to insert the 3V battery into the Battery ePod",
+  "scripts": {
+    "start": "remotion studio",
+    "build": "remotion render Epod3VBatteryInsertion renders/final/Epod3VBatteryInsertion.mp4",
+    "typecheck": "tsc --noEmit",
+    "generate-narration": "node scripts/generate-narration.js"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.245",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.245"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "msedge-tts": "^2.0.9",
+    "music-metadata": "^12.0.0",
+    "typescript": "^5.6.3"
+  }
+}

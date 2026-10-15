@@ -1,0 +1,44 @@
+[
+  {
+    "id": "scene-01",
+    "text": "Next, we will insert the 3-volt button battery into the Battery ePod.",
+    "durationSeconds": 5.832,
+    "durationFrames": 175
+  },
+  {
+    "id": "scene-02",
+    "text": "Use the 3-volt button battery from your kit. Keep the printed, shiny side facing up.",
+    "durationSeconds": 7.752,
+    "durationFrames": 233
+  },
+  {
+    "id": "scene-03",
+    "text": "The Battery ePod has a battery holder. The battery will be placed into this holder, which keeps it in place.",
+    "durationSeconds": 9.024,
+    "durationFrames": 271
+  },
+  {
+    "id": "scene-04",
+    "text": "Align the battery with the circular battery holder.",
+    "durationSeconds": 4.128,
+    "durationFrames": 124
+  },
+  {
+    "id": "scene-05",
+    "text": "Now lower the battery straight down into the holder, with the printed side up.",
+    "durationSeconds": 5.712,
+    "durationFrames": 172
+  },
+  {
+    "id": "scene-06",
+    "text": "Gently press the battery down until it sits properly in the holder. The holder locks the battery in place.",
+    "durationSeconds": 8.544,
+    "durationFrames": 257
+  },
+  {
+    "id": "scene-07",
+    "text": "The 3-volt battery is now inserted in the Battery ePod, and it is ready to be connected.",
+    "durationSeconds": 6.72,
+    "durationFrames": 202
+  }
+]
